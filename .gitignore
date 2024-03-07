@@ -134,9 +134,9 @@ celerybeat.pid
 .venv
 env/
 venv/
-frames/
-app/frames/
-frames
+frames/backgroundFrames/*.png
+app/frames/backgroundFrames/*.png
+frames/backgroundFrames/*.png
 ENV/
 env.bak/
 venv.bak/
