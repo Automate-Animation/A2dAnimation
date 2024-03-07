@@ -105,6 +105,13 @@ python frametoVideo.py -n intro-video
 ```
 After completion you will find the video in video folder. the video is without the audio you can attach the audio with your animation on any of your video editor. 
 
+## Demo Video
+
+Watch our demo video to see how A2dAnimation create video when attach it to audio. :
+
+[Automate Animation Demo](http://www.youtube.com/watch?v=cxLqrV8j5zQ "Automate Animation Demo")
+
+
 
 ### Contributing
 
