@@ -49,11 +49,11 @@ bash
 
     pip install -r requirements.txt
 
-Usage
+### Usage
 
-   
+first we are going to use the json which was created by Gentle. i alrady placed it in folder gentle_json. 
  ```python
- python gentleToCsv.py -f fiverr
+ python gentleToCsv.py -f software_intro
  ```
 
 Generates a CSV file in the csv folder based on predefined JSON values. Images associated with these values can be found in the images folder.
@@ -86,22 +86,24 @@ Generates a CSV file in the csv folder based on predefined JSON values. Images a
                     "5":"content", "6":"glare", "7":'scard', "8":"worried"},
         }
 
+
+Right now you dont need to fill out the csv based on above json.  i already fill the CSV file software_intro2 in csv folder.
 ```python
-python manual_update.py -i kamal -f fiverr -t normal
+python manual_update.py -i kamal -f software_intro2 -t normal
 ```
 Manually updates based on specified parameters.
 ```python
-python frame_generator_by_number.py -f fiverr
+python frame_generator_by_number.py -f software_intro2
 ```
-Generates frames for the video.
+Generates frames for the video. this may take time based on how long is the video.
 ```python
 python main.py
 ```
-Converts frames to a video.
+Converts frames to a video. this may take time based on how long is the video. 
 ```python
-python frametoVideo.py -n fiverr
+python frametoVideo.py -n intro-video
 ```
-After completion you will find the video in video folder. 
+After completion you will find the video in video folder. the video is without the audio you can attach the audio with your animation on any of your video editor. 
 
 
 ### Contributing
