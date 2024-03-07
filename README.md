@@ -112,6 +112,31 @@ Watch our demo video to see how A2dAnimation create video when attach it to audi
 [Automate Animation Demo](http://www.youtube.com/watch?v=cxLqrV8j5zQ "Automate Animation Demo")
 
 
+# Create Gentle Json
+
+## Prerequisites
+
+    Install Docker and docker-compose
+
+## Running Gentle Docker
+
+Go to ```Docker``` folder
+
+```bash
+sudo docker-compose up --build
+``` 
+After running the Docker command open the Browse open the link 
+[127.0.0.1:49153](http://127.0.0.1:49153)
+
+if you dont have Audio and text script use the assessd script in folder 
+```example``` and upload it to [127.0.0.1:49153](http://127.0.0.1:49153)
+
+After downloading the ```zip file``` open it and copy the ```align.json``` to ```gentle_json``` folder also rename it. rest of the flow is the same as above documentation. 
+
+### Author
+
+A2dAnimation is developed and maintained by [Oyekamal](https://github.com/oyekamal), a passionate creator dedicated to pushing the boundaries of animation technology.
+
 
 ### Contributing
 
