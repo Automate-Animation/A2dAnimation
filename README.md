@@ -18,12 +18,12 @@ A2dAnimation project aims to create 2d videos Animation using Gentle by utilizin
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/Automate-Animation/A2dAnimation.git
 ```
 Navigate to the project directory.
 
 ```bash
-cd project-name
+cd A2dAnimation
 ```
 (Optional) Create a virtual environment.
 
