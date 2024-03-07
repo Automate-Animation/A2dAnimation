@@ -1,0 +1,6 @@
+{
+    "office": { "body_size": [630, 1027], "body_position": [690, 0],"mirror":false,"addition":true },
+    "explaination": { "body_size": [650, 1080], "body_position": [20, 160], "mirror":true,"addition":true },
+    "white": { "body_size": [650, 1080], "body_position": [20, 160], "mirror":true,"addition":false }
+}
+  

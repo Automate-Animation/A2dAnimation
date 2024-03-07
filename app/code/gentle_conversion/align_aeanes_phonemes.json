@@ -1,0 +1,3779 @@
+{
+  "fragments": [
+    {
+      "begin": 5.06,
+      "end": 5.14,
+      "lines": ["i"],
+      "phonemes": ["AY1"],
+      "init_frame": 122,
+      "final_frame": 124,
+      "diff": 2,
+      "phonemes_frame": { "AY1": 2 }
+    },
+    {
+      "begin": 5.14,
+      "end": 5.33,
+      "lines": ["want"],
+      "phonemes": ["W", "AA1", "N", "T"],
+      "init_frame": 124,
+      "final_frame": 128,
+      "diff": 4,
+      "phonemes_frame": { "W": 1, "AA1": 1, "N": 1, "T": 1 }
+    },
+    {
+      "begin": 5.34,
+      "end": 5.4399999999999995,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 129,
+      "final_frame": 131,
+      "diff": 2,
+      "phonemes_frame": { "T": 1, "UW1": 1 }
+    },
+    {
+      "begin": 5.44,
+      "end": 5.7700000000000005,
+      "lines": ["share"],
+      "phonemes": ["SH", "EH1", "R"],
+      "init_frame": 131,
+      "final_frame": 139,
+      "diff": 8,
+      "phonemes_frame": { "SH": 3, "EH1": 3, "R": 2 }
+    },
+    {
+      "begin": 5.77,
+      "end": 5.81,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 139,
+      "final_frame": 140,
+      "diff": 1,
+      "phonemes_frame": { "AH0": 1 }
+    },
+    {
+      "begin": 5.81,
+      "end": 6.14,
+      "lines": ["very"],
+      "phonemes": ["V", "EH1", "R", "IY0"],
+      "init_frame": 140,
+      "final_frame": 148,
+      "diff": 8,
+      "phonemes_frame": { "V": 2, "EH1": 2, "R": 2, "IY0": 2 }
+    },
+    {
+      "begin": 6.14,
+      "end": 6.64,
+      "lines": ["important"],
+      "phonemes": ["IH0", "M", "P", "AO1", "R", "T", "AH0", "N", "T"],
+      "init_frame": 148,
+      "final_frame": 160,
+      "diff": 12,
+      "phonemes_frame": {
+        "IH0": 2,
+        "M": 2,
+        "P": 2,
+        "AO1": 1,
+        "R": 1,
+        "T": 1,
+        "AH0": 1,
+        "N": 1
+      }
+    },
+    {
+      "begin": 6.64,
+      "end": 7.31,
+      "lines": ["philosophy"],
+      "phonemes": ["F", "AH0", "L", "AA1", "S", "AH0", "F", "IY0"],
+      "init_frame": 160,
+      "final_frame": 176,
+      "diff": 16,
+      "phonemes_frame": { "F": 2, "AH0": 2, "L": 2, "AA1": 2, "S": 2, "IY0": 2 }
+    },
+    {
+      "begin": 7.31,
+      "end": 7.47,
+      "lines": ["with"],
+      "phonemes": ["W", "IH1", "DH"],
+      "init_frame": 176,
+      "final_frame": 180,
+      "diff": 4,
+      "phonemes_frame": { "W": 2, "IH1": 1, "DH": 1 }
+    },
+    {
+      "begin": 7.47,
+      "end": 7.62,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 180,
+      "final_frame": 183,
+      "diff": 3,
+      "phonemes_frame": { "Y": 2, "UW1": 1 }
+    },
+    {
+      "begin": 7.62,
+      "end": 8.07,
+      "lines": ["today"],
+      "phonemes": ["T", "AH0", "D", "EY1"],
+      "init_frame": 183,
+      "final_frame": 194,
+      "diff": 11,
+      "phonemes_frame": { "T": 3, "AH0": 3, "D": 3, "EY1": 2 }
+    },
+    {
+      "begin": 8.57,
+      "end": 8.75,
+      "lines": ["it's"],
+      "phonemes": ["IH1", "T", "S"],
+      "init_frame": 206,
+      "final_frame": 210,
+      "diff": 4,
+      "phonemes_frame": { "IH1": 2, "T": 1, "S": 1 }
+    },
+    {
+      "begin": 8.75,
+      "end": 8.82,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 210,
+      "final_frame": 212,
+      "diff": 2,
+      "phonemes_frame": { "AH0": 2 }
+    },
+    {
+      "begin": 8.82,
+      "end": 9.540000000000001,
+      "lines": ["philosophy"],
+      "phonemes": ["F", "AH0", "L", "AA1", "S", "AH0", "F", "IY0"],
+      "init_frame": 212,
+      "final_frame": 229,
+      "diff": 17,
+      "phonemes_frame": { "F": 2, "AH0": 2, "L": 2, "AA1": 2, "S": 2, "IY0": 2 }
+    },
+    {
+      "begin": 9.599999,
+      "end": 9.839999,
+      "lines": ["i"],
+      "phonemes": ["AY1"],
+      "init_frame": 231,
+      "final_frame": 237,
+      "diff": 6,
+      "phonemes_frame": { "AY1": 6 }
+    },
+    {
+      "begin": 9.87,
+      "end": 10.17,
+      "lines": ["think"],
+      "phonemes": ["TH", "IH1", "NG", "K"],
+      "init_frame": 237,
+      "final_frame": 245,
+      "diff": 8,
+      "phonemes_frame": { "TH": 2, "IH1": 2, "NG": 2, "K": 2 }
+    },
+    {
+      "begin": 10.21,
+      "end": 10.64,
+      "lines": ["everyone"],
+      "phonemes": ["EH1", "V", "R", "IY0", "W", "AH2", "N"],
+      "init_frame": 246,
+      "final_frame": 256,
+      "diff": 10,
+      "phonemes_frame": {
+        "EH1": 2,
+        "V": 2,
+        "R": 2,
+        "IY0": 1,
+        "W": 1,
+        "AH2": 1,
+        "N": 1
+      }
+    },
+    {
+      "begin": 10.639999,
+      "end": 10.849999,
+      "lines": ["should"],
+      "phonemes": ["SH", "UH1", "D"],
+      "init_frame": 256,
+      "final_frame": 261,
+      "diff": 5,
+      "phonemes_frame": { "SH": 2, "UH1": 2, "D": 1 }
+    },
+    {
+      "begin": 10.849999,
+      "end": 11.129999,
+      "lines": ["hear"],
+      "phonemes": ["HH", "IY1", "R"],
+      "init_frame": 261,
+      "final_frame": 268,
+      "diff": 7,
+      "phonemes_frame": { "HH": 3, "IY1": 2, "R": 2 }
+    },
+    {
+      "begin": 15.089999,
+      "end": 15.639999000000001,
+      "lines": ["proverb"],
+      "phonemes": ["P", "R", "AA1", "V", "ER0", "B"],
+      "init_frame": 363,
+      "final_frame": 376,
+      "diff": 13,
+      "phonemes_frame": { "P": 3, "R": 2, "AA1": 2, "V": 2, "ER0": 2, "B": 2 }
+    },
+    {
+      "begin": 15.82,
+      "end": 16.35,
+      "lines": ["6"],
+      "phonemes": ["S", "IH1", "K", "S"],
+      "init_frame": 380,
+      "final_frame": 393,
+      "diff": 13,
+      "phonemes_frame": { "S": 3, "IH1": 3, "K": 3 }
+    },
+    {
+      "begin": 16.529999,
+      "end": 16.789999,
+      "lines": ["8"],
+      "phonemes": ["EY1", "T"],
+      "init_frame": 397,
+      "final_frame": 403,
+      "diff": 6,
+      "phonemes_frame": { "EY1": 3, "T": 3 }
+    },
+    {
+      "begin": 16.959999,
+      "end": 17.369999,
+      "lines": ["11"],
+      "phonemes": ["IH0", "L", "EH1", "V", "AH0", "N"],
+      "init_frame": 408,
+      "final_frame": 417,
+      "diff": 9,
+      "phonemes_frame": { "IH0": 2, "L": 2, "EH1": 2, "V": 1, "AH0": 1, "N": 1 }
+    },
+    {
+      "begin": 18.17,
+      "end": 18.46,
+      "lines": ["go"],
+      "phonemes": ["G", "OW1"],
+      "init_frame": 437,
+      "final_frame": 444,
+      "diff": 7,
+      "phonemes_frame": { "G": 4, "OW1": 3 }
+    },
+    {
+      "begin": 18.5,
+      "end": 18.63,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 444,
+      "final_frame": 448,
+      "diff": 4,
+      "phonemes_frame": { "T": 2, "UW1": 2 }
+    },
+    {
+      "begin": 18.63,
+      "end": 18.82,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 448,
+      "final_frame": 452,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "AH0": 2 }
+    },
+    {
+      "begin": 18.869999,
+      "end": 19.199999,
+      "lines": ["ant"],
+      "phonemes": ["AE1", "N", "T"],
+      "init_frame": 453,
+      "final_frame": 461,
+      "diff": 8,
+      "phonemes_frame": { "AE1": 3, "N": 3, "T": 2 }
+    },
+    {
+      "begin": 19.28,
+      "end": 19.43,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 463,
+      "final_frame": 467,
+      "diff": 4,
+      "phonemes_frame": { "Y": 2, "UW1": 2 }
+    },
+    {
+      "begin": 19.43,
+      "end": 19.94,
+      "lines": ["sluggard"],
+      "phonemes": ["S", "L", "AH1", "G", "AA2", "R", "D"],
+      "init_frame": 467,
+      "final_frame": 479,
+      "diff": 12,
+      "phonemes_frame": {
+        "S": 2,
+        "L": 2,
+        "AH1": 2,
+        "G": 2,
+        "AA2": 2,
+        "R": 1,
+        "D": 1
+      }
+    },
+    {
+      "begin": 20.47,
+      "end": 20.98,
+      "lines": ["consider"],
+      "phonemes": ["K", "AH0", "N", "S", "IH1", "D", "ER0"],
+      "init_frame": 492,
+      "final_frame": 504,
+      "diff": 12,
+      "phonemes_frame": {
+        "K": 2,
+        "AH0": 2,
+        "N": 2,
+        "S": 2,
+        "IH1": 2,
+        "D": 1,
+        "ER0": 1
+      }
+    },
+    {
+      "begin": 20.98,
+      "end": 21.17,
+      "lines": ["its"],
+      "phonemes": ["IH1", "T", "S"],
+      "init_frame": 504,
+      "final_frame": 509,
+      "diff": 5,
+      "phonemes_frame": { "IH1": 2, "T": 2, "S": 1 }
+    },
+    {
+      "begin": 21.17,
+      "end": 21.680000000000003,
+      "lines": ["ways"],
+      "phonemes": ["W", "EY1", "Z"],
+      "init_frame": 509,
+      "final_frame": 521,
+      "diff": 12,
+      "phonemes_frame": { "W": 4, "EY1": 4, "Z": 4 }
+    },
+    {
+      "begin": 21.75,
+      "end": 21.93,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 522,
+      "final_frame": 527,
+      "diff": 5,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 1 }
+    },
+    {
+      "begin": 21.93,
+      "end": 22.04,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 527,
+      "final_frame": 529,
+      "diff": 2,
+      "phonemes_frame": { "B": 1, "IY1": 1 }
+    },
+    {
+      "begin": 22.04,
+      "end": 22.57,
+      "lines": ["wise"],
+      "phonemes": ["W", "AY1", "Z"],
+      "init_frame": 529,
+      "final_frame": 542,
+      "diff": 13,
+      "phonemes_frame": { "W": 5, "AY1": 4, "Z": 4 }
+    },
+    {
+      "begin": 23.08,
+      "end": 23.18,
+      "lines": ["it"],
+      "phonemes": ["IH1", "T"],
+      "init_frame": 554,
+      "final_frame": 557,
+      "diff": 3,
+      "phonemes_frame": { "IH1": 2, "T": 1 }
+    },
+    {
+      "begin": 23.19,
+      "end": 23.43,
+      "lines": ["has"],
+      "phonemes": ["HH", "AE1", "Z"],
+      "init_frame": 557,
+      "final_frame": 563,
+      "diff": 6,
+      "phonemes_frame": { "HH": 2, "AE1": 2, "Z": 2 }
+    },
+    {
+      "begin": 23.44,
+      "end": 23.720000000000002,
+      "lines": ["no"],
+      "phonemes": ["N", "OW1"],
+      "init_frame": 563,
+      "final_frame": 570,
+      "diff": 7,
+      "phonemes_frame": { "N": 4, "OW1": 3 }
+    },
+    {
+      "begin": 23.72,
+      "end": 24.25,
+      "lines": ["commander"],
+      "phonemes": ["K", "AH0", "M", "AE1", "N", "D", "ER0"],
+      "init_frame": 570,
+      "final_frame": 582,
+      "diff": 12,
+      "phonemes_frame": {
+        "K": 2,
+        "AH0": 2,
+        "M": 2,
+        "AE1": 2,
+        "N": 2,
+        "D": 1,
+        "ER0": 1
+      }
+    },
+    {
+      "begin": 24.79,
+      "end": 25.13,
+      "lines": ["no"],
+      "phonemes": ["N", "OW1"],
+      "init_frame": 595,
+      "final_frame": 604,
+      "diff": 9,
+      "phonemes_frame": { "N": 5, "OW1": 4 }
+    },
+    {
+      "begin": 25.18,
+      "end": 25.95,
+      "lines": ["overseer"],
+      "phonemes": ["OW1", "V", "ER0", "S", "IY1", "ER0"],
+      "init_frame": 605,
+      "final_frame": 623,
+      "diff": 18,
+      "phonemes_frame": { "OW1": 3, "V": 3, "ER0": 3, "S": 3, "IY1": 3 }
+    },
+    {
+      "begin": 26.05,
+      "end": 26.28,
+      "lines": ["or"],
+      "phonemes": ["AO1", "R"],
+      "init_frame": 626,
+      "final_frame": 631,
+      "diff": 5,
+      "phonemes_frame": { "AO1": 3, "R": 2 }
+    },
+    {
+      "begin": 26.33,
+      "end": 26.47,
+      "lines": ["ruler"],
+      "phonemes": ["R", "UW1", "L", "ER0"],
+      "init_frame": 632,
+      "final_frame": 636,
+      "diff": 4,
+      "phonemes_frame": { "R": 1, "UW1": 1, "L": 1, "ER0": 1 }
+    },
+    {
+      "begin": 27.349999,
+      "end": 27.559999,
+      "lines": ["yet"],
+      "phonemes": ["Y", "EH1", "T"],
+      "init_frame": 657,
+      "final_frame": 662,
+      "diff": 5,
+      "phonemes_frame": { "Y": 2, "EH1": 2, "T": 1 }
+    },
+    {
+      "begin": 27.559998999999998,
+      "end": 27.699999,
+      "lines": ["it"],
+      "phonemes": ["IH1", "T"],
+      "init_frame": 662,
+      "final_frame": 665,
+      "diff": 3,
+      "phonemes_frame": { "IH1": 2, "T": 1 }
+    },
+    {
+      "begin": 27.7,
+      "end": 28.32,
+      "lines": ["stores"],
+      "phonemes": ["S", "T", "AO1", "R", "Z"],
+      "init_frame": 665,
+      "final_frame": 680,
+      "diff": 15,
+      "phonemes_frame": { "S": 3, "T": 3, "AO1": 3, "R": 3, "Z": 3 }
+    },
+    {
+      "begin": 28.369999999999997,
+      "end": 28.569999999999997,
+      "lines": ["its"],
+      "phonemes": ["IH1", "T", "S"],
+      "init_frame": 681,
+      "final_frame": 686,
+      "diff": 5,
+      "phonemes_frame": { "IH1": 2, "T": 2, "S": 1 }
+    },
+    {
+      "begin": 28.59,
+      "end": 29.24,
+      "lines": ["provisions"],
+      "phonemes": ["P", "R", "AH0", "V", "IH1", "ZH", "AH0", "N", "Z"],
+      "init_frame": 687,
+      "final_frame": 702,
+      "diff": 15,
+      "phonemes_frame": {
+        "P": 2,
+        "R": 2,
+        "AH0": 1,
+        "V": 2,
+        "IH1": 2,
+        "ZH": 2,
+        "N": 1,
+        "Z": 1
+      }
+    },
+    {
+      "begin": 29.349999,
+      "end": 29.529999,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 705,
+      "final_frame": 709,
+      "diff": 4,
+      "phonemes_frame": { "IH0": 2, "N": 2 }
+    },
+    {
+      "begin": 29.53,
+      "end": 29.900000000000002,
+      "lines": ["summer"],
+      "phonemes": ["S", "AH1", "M", "ER0"],
+      "init_frame": 709,
+      "final_frame": 718,
+      "diff": 9,
+      "phonemes_frame": { "S": 3, "AH1": 2, "M": 2, "ER0": 2 }
+    },
+    {
+      "begin": 30.28,
+      "end": 30.43,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 727,
+      "final_frame": 731,
+      "diff": 4,
+      "phonemes_frame": { "AH0": 2, "N": 1, "D": 1 }
+    },
+    {
+      "begin": 30.439999999999998,
+      "end": 30.839999999999996,
+      "lines": ["gather"],
+      "phonemes": ["G", "AE1", "DH", "ER0"],
+      "init_frame": 731,
+      "final_frame": 741,
+      "diff": 10,
+      "phonemes_frame": { "G": 3, "AE1": 3, "DH": 2, "ER0": 2 }
+    },
+    {
+      "begin": 30.84,
+      "end": 31.07,
+      "lines": ["its"],
+      "phonemes": ["IH1", "T", "S"],
+      "init_frame": 741,
+      "final_frame": 746,
+      "diff": 5,
+      "phonemes_frame": { "IH1": 2, "T": 2, "S": 1 }
+    },
+    {
+      "begin": 31.11,
+      "end": 31.48,
+      "lines": ["food"],
+      "phonemes": ["F", "UW1", "D"],
+      "init_frame": 747,
+      "final_frame": 756,
+      "diff": 9,
+      "phonemes_frame": { "F": 3, "UW1": 3, "D": 3 }
+    },
+    {
+      "begin": 31.61,
+      "end": 31.759999999999998,
+      "lines": ["at"],
+      "phonemes": ["AE1", "T"],
+      "init_frame": 759,
+      "final_frame": 763,
+      "diff": 4,
+      "phonemes_frame": { "AE1": 2, "T": 2 }
+    },
+    {
+      "begin": 31.759999,
+      "end": 32.309999,
+      "lines": ["harvest"],
+      "phonemes": ["HH", "AA1", "R", "V", "AH0", "S", "T"],
+      "init_frame": 763,
+      "final_frame": 776,
+      "diff": 13,
+      "phonemes_frame": {
+        "HH": 2,
+        "AA1": 2,
+        "R": 2,
+        "V": 2,
+        "AH0": 2,
+        "S": 2,
+        "T": 1
+      }
+    },
+    {
+      "begin": 33.15,
+      "end": 33.35,
+      "lines": ["how"],
+      "phonemes": ["HH", "AW1"],
+      "init_frame": 796,
+      "final_frame": 801,
+      "diff": 5,
+      "phonemes_frame": { "HH": 3, "AW1": 2 }
+    },
+    {
+      "begin": 33.349999,
+      "end": 33.689999,
+      "lines": ["long"],
+      "phonemes": ["L", "AO1", "NG"],
+      "init_frame": 801,
+      "final_frame": 809,
+      "diff": 8,
+      "phonemes_frame": { "L": 3, "AO1": 3, "NG": 2 }
+    },
+    {
+      "begin": 33.7,
+      "end": 33.81,
+      "lines": ["will"],
+      "phonemes": ["W", "IH1", "L"],
+      "init_frame": 809,
+      "final_frame": 812,
+      "diff": 3,
+      "phonemes_frame": { "W": 1, "IH1": 1, "L": 1 }
+    },
+    {
+      "begin": 33.809999,
+      "end": 33.999998999999995,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 812,
+      "final_frame": 816,
+      "diff": 4,
+      "phonemes_frame": { "Y": 2, "UW1": 2 }
+    },
+    {
+      "begin": 34.0,
+      "end": 34.32,
+      "lines": ["lie"],
+      "phonemes": ["L", "AY1"],
+      "init_frame": 816,
+      "final_frame": 824,
+      "diff": 8,
+      "phonemes_frame": { "L": 4, "AY1": 4 }
+    },
+    {
+      "begin": 34.34,
+      "end": 34.57,
+      "lines": ["there"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 825,
+      "final_frame": 830,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "R": 1 }
+    },
+    {
+      "begin": 34.57,
+      "end": 34.72,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 830,
+      "final_frame": 834,
+      "diff": 4,
+      "phonemes_frame": { "Y": 2, "UW1": 2 }
+    },
+    {
+      "begin": 34.719999,
+      "end": 35.239999000000005,
+      "lines": ["sluggard"],
+      "phonemes": ["S", "L", "AH1", "G", "AA2", "R", "D"],
+      "init_frame": 834,
+      "final_frame": 846,
+      "diff": 12,
+      "phonemes_frame": {
+        "S": 2,
+        "L": 2,
+        "AH1": 2,
+        "G": 2,
+        "AA2": 2,
+        "R": 1,
+        "D": 1
+      }
+    },
+    {
+      "begin": 36.529999000000004,
+      "end": 36.79999900000001,
+      "lines": ["when"],
+      "phonemes": ["W", "EH1", "N"],
+      "init_frame": 877,
+      "final_frame": 884,
+      "diff": 7,
+      "phonemes_frame": { "W": 3, "EH1": 2, "N": 2 }
+    },
+    {
+      "begin": 36.81,
+      "end": 36.93,
+      "lines": ["will"],
+      "phonemes": ["W", "IH1", "L"],
+      "init_frame": 884,
+      "final_frame": 887,
+      "diff": 3,
+      "phonemes_frame": { "W": 1, "IH1": 1, "L": 1 }
+    },
+    {
+      "begin": 36.93,
+      "end": 37.13,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 887,
+      "final_frame": 892,
+      "diff": 5,
+      "phonemes_frame": { "Y": 3, "UW1": 2 }
+    },
+    {
+      "begin": 37.16,
+      "end": 37.37,
+      "lines": ["get"],
+      "phonemes": ["G", "EH1", "T"],
+      "init_frame": 892,
+      "final_frame": 897,
+      "diff": 5,
+      "phonemes_frame": { "G": 2, "EH1": 2, "T": 1 }
+    },
+    {
+      "begin": 37.38,
+      "end": 37.56,
+      "lines": ["up"],
+      "phonemes": ["AH1", "P"],
+      "init_frame": 898,
+      "final_frame": 902,
+      "diff": 4,
+      "phonemes_frame": { "AH1": 2, "P": 2 }
+    },
+    {
+      "begin": 37.56,
+      "end": 37.74,
+      "lines": ["from"],
+      "phonemes": ["F", "R", "AH1", "M"],
+      "init_frame": 902,
+      "final_frame": 906,
+      "diff": 4,
+      "phonemes_frame": { "F": 1, "R": 1, "AH1": 1, "M": 1 }
+    },
+    {
+      "begin": 37.74,
+      "end": 37.92,
+      "lines": ["your"],
+      "phonemes": ["Y", "AO1", "R"],
+      "init_frame": 906,
+      "final_frame": 911,
+      "diff": 5,
+      "phonemes_frame": { "Y": 2, "AO1": 2, "R": 1 }
+    },
+    {
+      "begin": 37.92,
+      "end": 38.300000000000004,
+      "lines": ["sleep"],
+      "phonemes": ["S", "L", "IY1", "P"],
+      "init_frame": 911,
+      "final_frame": 920,
+      "diff": 9,
+      "phonemes_frame": { "S": 3, "L": 2, "IY1": 2, "P": 2 }
+    },
+    {
+      "begin": 39.22,
+      "end": 39.32,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 942,
+      "final_frame": 944,
+      "diff": 2,
+      "phonemes_frame": { "AH0": 2 }
+    },
+    {
+      "begin": 39.32,
+      "end": 39.62,
+      "lines": ["little"],
+      "phonemes": ["L", "IH1", "T", "AH0", "L"],
+      "init_frame": 944,
+      "final_frame": 951,
+      "diff": 7,
+      "phonemes_frame": { "L": 1, "IH1": 2, "T": 1, "AH0": 1 }
+    },
+    {
+      "begin": 39.62,
+      "end": 39.989999999999995,
+      "lines": ["sleep"],
+      "phonemes": ["S", "L", "IY1", "P"],
+      "init_frame": 951,
+      "final_frame": 960,
+      "diff": 9,
+      "phonemes_frame": { "S": 3, "L": 2, "IY1": 2, "P": 2 }
+    },
+    {
+      "begin": 40.51,
+      "end": 40.58,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 973,
+      "final_frame": 974,
+      "diff": 1,
+      "phonemes_frame": { "AH0": 1 }
+    },
+    {
+      "begin": 40.58,
+      "end": 40.85,
+      "lines": ["little"],
+      "phonemes": ["L", "IH1", "T", "AH0", "L"],
+      "init_frame": 974,
+      "final_frame": 981,
+      "diff": 7,
+      "phonemes_frame": { "L": 1, "IH1": 2, "T": 1, "AH0": 1 }
+    },
+    {
+      "begin": 40.85,
+      "end": 41.34,
+      "lines": ["slumber"],
+      "phonemes": ["S", "L", "AH1", "M", "B", "ER0"],
+      "init_frame": 981,
+      "final_frame": 993,
+      "diff": 12,
+      "phonemes_frame": { "S": 2, "L": 2, "AH1": 2, "M": 2, "B": 2, "ER0": 2 }
+    },
+    {
+      "begin": 42.04,
+      "end": 42.13,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 1009,
+      "final_frame": 1012,
+      "diff": 3,
+      "phonemes_frame": { "AH0": 3 }
+    },
+    {
+      "begin": 42.13,
+      "end": 42.42,
+      "lines": ["little"],
+      "phonemes": ["L", "IH1", "T", "AH0", "L"],
+      "init_frame": 1012,
+      "final_frame": 1019,
+      "diff": 7,
+      "phonemes_frame": { "L": 1, "IH1": 2, "T": 1, "AH0": 1 }
+    },
+    {
+      "begin": 42.43,
+      "end": 42.96,
+      "lines": ["folding"],
+      "phonemes": ["F", "OW1", "L", "D", "IH0", "NG"],
+      "init_frame": 1019,
+      "final_frame": 1032,
+      "diff": 13,
+      "phonemes_frame": { "F": 3, "OW1": 2, "L": 2, "D": 2, "IH0": 2, "NG": 2 }
+    },
+    {
+      "begin": 42.99,
+      "end": 43.160000000000004,
+      "lines": ["of"],
+      "phonemes": ["AH1", "V"],
+      "init_frame": 1032,
+      "final_frame": 1036,
+      "diff": 4,
+      "phonemes_frame": { "AH1": 2, "V": 2 }
+    },
+    {
+      "begin": 43.16,
+      "end": 43.239999999999995,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 1036,
+      "final_frame": 1038,
+      "diff": 2,
+      "phonemes_frame": { "DH": 1, "AH0": 1 }
+    },
+    {
+      "begin": 43.24,
+      "end": 43.64,
+      "lines": ["hands"],
+      "phonemes": ["HH", "AE1", "N", "D", "Z"],
+      "init_frame": 1038,
+      "final_frame": 1048,
+      "diff": 10,
+      "phonemes_frame": { "HH": 2, "AE1": 2, "N": 2, "D": 2, "Z": 2 }
+    },
+    {
+      "begin": 43.64,
+      "end": 43.82,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 1048,
+      "final_frame": 1052,
+      "diff": 4,
+      "phonemes_frame": { "T": 2, "UW1": 2 }
+    },
+    {
+      "begin": 43.82,
+      "end": 44.37,
+      "lines": ["rest"],
+      "phonemes": ["R", "EH1", "S", "T"],
+      "init_frame": 1052,
+      "final_frame": 1065,
+      "diff": 13,
+      "phonemes_frame": { "R": 4, "EH1": 3, "S": 3, "T": 3 }
+    },
+    {
+      "begin": 44.67,
+      "end": 44.870000000000005,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 1073,
+      "final_frame": 1077,
+      "diff": 4,
+      "phonemes_frame": { "AH0": 2, "N": 1, "D": 1 }
+    },
+    {
+      "begin": 44.87,
+      "end": 45.4,
+      "lines": ["poverty"],
+      "phonemes": ["P", "AA1", "V", "ER0", "T", "IY0"],
+      "init_frame": 1077,
+      "final_frame": 1090,
+      "diff": 13,
+      "phonemes_frame": { "P": 3, "AA1": 2, "V": 2, "ER0": 2, "T": 2, "IY0": 2 }
+    },
+    {
+      "begin": 45.730000000000004,
+      "end": 45.89,
+      "lines": ["will"],
+      "phonemes": ["W", "IH1", "L"],
+      "init_frame": 1098,
+      "final_frame": 1102,
+      "diff": 4,
+      "phonemes_frame": { "W": 2, "IH1": 1, "L": 1 }
+    },
+    {
+      "begin": 45.889999,
+      "end": 46.129999000000005,
+      "lines": ["come"],
+      "phonemes": ["K", "AH1", "M"],
+      "init_frame": 1102,
+      "final_frame": 1108,
+      "diff": 6,
+      "phonemes_frame": { "K": 2, "AH1": 2, "M": 2 }
+    },
+    {
+      "begin": 46.13,
+      "end": 46.28,
+      "lines": ["on"],
+      "phonemes": ["AA1", "N"],
+      "init_frame": 1108,
+      "final_frame": 1111,
+      "diff": 3,
+      "phonemes_frame": { "AA1": 2, "N": 1 }
+    },
+    {
+      "begin": 46.28,
+      "end": 46.49,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 1111,
+      "final_frame": 1116,
+      "diff": 5,
+      "phonemes_frame": { "Y": 3, "UW1": 2 }
+    },
+    {
+      "begin": 46.76,
+      "end": 46.98,
+      "lines": ["like"],
+      "phonemes": ["L", "AY1", "K"],
+      "init_frame": 1123,
+      "final_frame": 1128,
+      "diff": 5,
+      "phonemes_frame": { "L": 2, "AY1": 2, "K": 1 }
+    },
+    {
+      "begin": 46.980000000000004,
+      "end": 47.080000000000005,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 1128,
+      "final_frame": 1130,
+      "diff": 2,
+      "phonemes_frame": { "AH0": 2 }
+    },
+    {
+      "begin": 47.09,
+      "end": 47.59,
+      "lines": ["bandit"],
+      "phonemes": ["B", "AE1", "N", "D", "AH0", "T"],
+      "init_frame": 1131,
+      "final_frame": 1143,
+      "diff": 12,
+      "phonemes_frame": { "B": 2, "AE1": 2, "N": 2, "D": 2, "AH0": 2, "T": 2 }
+    },
+    {
+      "begin": 47.9,
+      "end": 48.07,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 1150,
+      "final_frame": 1154,
+      "diff": 4,
+      "phonemes_frame": { "AH0": 2, "N": 1, "D": 1 }
+    },
+    {
+      "begin": 48.08,
+      "end": 48.72,
+      "lines": ["scarcity"],
+      "phonemes": ["S", "K", "EH1", "R", "S", "IH0", "T", "IY0"],
+      "init_frame": 1154,
+      "final_frame": 1170,
+      "diff": 16,
+      "phonemes_frame": {
+        "S": 2,
+        "K": 2,
+        "EH1": 2,
+        "R": 2,
+        "IH0": 2,
+        "T": 2,
+        "IY0": 2
+      }
+    },
+    {
+      "begin": 49.04,
+      "end": 49.24,
+      "lines": ["like"],
+      "phonemes": ["L", "AY1", "K"],
+      "init_frame": 1177,
+      "final_frame": 1182,
+      "diff": 5,
+      "phonemes_frame": { "L": 2, "AY1": 2, "K": 1 }
+    },
+    {
+      "begin": 49.24,
+      "end": 49.35,
+      "lines": ["an"],
+      "phonemes": ["AE1", "N"],
+      "init_frame": 1182,
+      "final_frame": 1185,
+      "diff": 3,
+      "phonemes_frame": { "AE1": 2, "N": 1 }
+    },
+    {
+      "begin": 49.4,
+      "end": 49.78,
+      "lines": ["armed"],
+      "phonemes": ["AA1", "R", "M", "D"],
+      "init_frame": 1186,
+      "final_frame": 1195,
+      "diff": 9,
+      "phonemes_frame": { "AA1": 3, "R": 2, "M": 2, "D": 2 }
+    },
+    {
+      "begin": 49.809999,
+      "end": 50.079999,
+      "lines": ["man"],
+      "phonemes": ["M", "AE1", "N"],
+      "init_frame": 1196,
+      "final_frame": 1202,
+      "diff": 6,
+      "phonemes_frame": { "M": 2, "AE1": 2, "N": 2 }
+    },
+    {
+      "begin": 51.46,
+      "end": 51.730000000000004,
+      "lines": ["here's"],
+      "phonemes": ["HH", "IH1", "R", "Z"],
+      "init_frame": 1236,
+      "final_frame": 1242,
+      "diff": 6,
+      "phonemes_frame": { "HH": 2, "IH1": 2, "R": 1, "Z": 1 }
+    },
+    {
+      "begin": 51.730000000000004,
+      "end": 51.870000000000005,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 1242,
+      "final_frame": 1245,
+      "diff": 3,
+      "phonemes_frame": { "DH": 2, "AH0": 1 }
+    },
+    {
+      "begin": 51.88,
+      "end": 52.150000000000006,
+      "lines": ["five"],
+      "phonemes": ["F", "AY1", "V"],
+      "init_frame": 1246,
+      "final_frame": 1252,
+      "diff": 6,
+      "phonemes_frame": { "F": 2, "AY1": 2, "V": 2 }
+    },
+    {
+      "begin": 52.16,
+      "end": 52.86,
+      "lines": ["philosophy"],
+      "phonemes": ["F", "AH0", "L", "AA1", "S", "AH0", "F", "IY0"],
+      "init_frame": 1252,
+      "final_frame": 1269,
+      "diff": 17,
+      "phonemes_frame": { "F": 2, "AH0": 2, "L": 2, "AA1": 2, "S": 2, "IY0": 2 }
+    },
+    {
+      "begin": 53.18,
+      "end": 53.32,
+      "lines": ["that"],
+      "phonemes": ["DH", "AE1", "T"],
+      "init_frame": 1277,
+      "final_frame": 1280,
+      "diff": 3,
+      "phonemes_frame": { "DH": 1, "AE1": 1, "T": 1 }
+    },
+    {
+      "begin": 53.32,
+      "end": 53.46,
+      "lines": ["we"],
+      "phonemes": ["W", "IY1"],
+      "init_frame": 1280,
+      "final_frame": 1284,
+      "diff": 4,
+      "phonemes_frame": { "W": 2, "IY1": 2 }
+    },
+    {
+      "begin": 53.459998999999996,
+      "end": 53.639998999999996,
+      "lines": ["can"],
+      "phonemes": ["K", "AE1", "N"],
+      "init_frame": 1284,
+      "final_frame": 1288,
+      "diff": 4,
+      "phonemes_frame": { "K": 2, "AE1": 1, "N": 1 }
+    },
+    {
+      "begin": 53.639999,
+      "end": 53.969999,
+      "lines": ["learn"],
+      "phonemes": ["L", "ER1", "N"],
+      "init_frame": 1288,
+      "final_frame": 1296,
+      "diff": 8,
+      "phonemes_frame": { "L": 3, "ER1": 3, "N": 2 }
+    },
+    {
+      "begin": 54.019999999999996,
+      "end": 54.209999999999994,
+      "lines": ["from"],
+      "phonemes": ["F", "R", "AH1", "M"],
+      "init_frame": 1297,
+      "final_frame": 1302,
+      "diff": 5,
+      "phonemes_frame": { "F": 2, "R": 1, "AH1": 1, "M": 1 }
+    },
+    {
+      "begin": 54.22,
+      "end": 54.82,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 1302,
+      "final_frame": 1316,
+      "diff": 14,
+      "phonemes_frame": { "AE1": 4, "N": 4, "T": 3, "S": 3 }
+    },
+    {
+      "begin": 56.21,
+      "end": 56.68,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 1350,
+      "final_frame": 1361,
+      "diff": 11,
+      "phonemes_frame": { "AE1": 3, "N": 3, "T": 3, "S": 2 }
+    },
+    {
+      "begin": 56.83,
+      "end": 57.11,
+      "lines": ["have"],
+      "phonemes": ["HH", "AE1", "V"],
+      "init_frame": 1364,
+      "final_frame": 1371,
+      "diff": 7,
+      "phonemes_frame": { "HH": 3, "AE1": 2, "V": 2 }
+    },
+    {
+      "begin": 57.11,
+      "end": 57.41,
+      "lines": ["no"],
+      "phonemes": ["N", "OW1"],
+      "init_frame": 1371,
+      "final_frame": 1378,
+      "diff": 7,
+      "phonemes_frame": { "N": 4, "OW1": 3 }
+    },
+    {
+      "begin": 57.41,
+      "end": 57.949999999999996,
+      "lines": ["commander"],
+      "phonemes": ["K", "AH0", "M", "AE1", "N", "D", "ER0"],
+      "init_frame": 1378,
+      "final_frame": 1391,
+      "diff": 13,
+      "phonemes_frame": {
+        "K": 2,
+        "AH0": 2,
+        "M": 2,
+        "AE1": 2,
+        "N": 2,
+        "D": 2,
+        "ER0": 1
+      }
+    },
+    {
+      "begin": 58.64,
+      "end": 58.95,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 1408,
+      "final_frame": 1415,
+      "diff": 7,
+      "phonemes_frame": { "AE1": 2, "N": 2, "T": 2, "S": 1 }
+    },
+    {
+      "begin": 58.95,
+      "end": 59.190000000000005,
+      "lines": ["don't"],
+      "phonemes": ["D", "OW1", "N", "T"],
+      "init_frame": 1415,
+      "final_frame": 1421,
+      "diff": 6,
+      "phonemes_frame": { "D": 2, "OW1": 2, "N": 1, "T": 1 }
+    },
+    {
+      "begin": 59.2,
+      "end": 59.46,
+      "lines": ["need"],
+      "phonemes": ["N", "IY1", "D"],
+      "init_frame": 1421,
+      "final_frame": 1428,
+      "diff": 7,
+      "phonemes_frame": { "N": 3, "IY1": 2, "D": 2 }
+    },
+    {
+      "begin": 59.46,
+      "end": 59.5,
+      "lines": ["a"],
+      "phonemes": ["AH0"],
+      "init_frame": 1428,
+      "final_frame": 1428,
+      "diff": 0,
+      "phonemes_frame": { "AH0": 0 }
+    },
+    {
+      "begin": 59.5,
+      "end": 59.99,
+      "lines": ["commander"],
+      "phonemes": ["K", "AH0", "M", "AE1", "N", "D", "ER0"],
+      "init_frame": 1428,
+      "final_frame": 1440,
+      "diff": 12,
+      "phonemes_frame": {
+        "K": 2,
+        "AH0": 2,
+        "M": 2,
+        "AE1": 2,
+        "N": 2,
+        "D": 1,
+        "ER0": 1
+      }
+    },
+    {
+      "begin": 60.21,
+      "end": 60.35,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 1446,
+      "final_frame": 1449,
+      "diff": 3,
+      "phonemes_frame": { "T": 2, "UW1": 1 }
+    },
+    {
+      "begin": 60.35,
+      "end": 60.59,
+      "lines": ["tell"],
+      "phonemes": ["T", "EH1", "L"],
+      "init_frame": 1449,
+      "final_frame": 1455,
+      "diff": 6,
+      "phonemes_frame": { "T": 2, "EH1": 2, "L": 2 }
+    },
+    {
+      "begin": 60.59,
+      "end": 60.760000000000005,
+      "lines": ["them"],
+      "phonemes": ["DH", "EH1", "M"],
+      "init_frame": 1455,
+      "final_frame": 1459,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EH1": 1, "M": 1 }
+    },
+    {
+      "begin": 60.76,
+      "end": 60.839999999999996,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 1459,
+      "final_frame": 1461,
+      "diff": 2,
+      "phonemes_frame": { "T": 1, "UW1": 1 }
+    },
+    {
+      "begin": 60.84,
+      "end": 61.0,
+      "lines": ["get"],
+      "phonemes": ["G", "EH1", "T"],
+      "init_frame": 1461,
+      "final_frame": 1464,
+      "diff": 3,
+      "phonemes_frame": { "G": 1, "EH1": 1, "T": 1 }
+    },
+    {
+      "begin": 61.0,
+      "end": 61.46,
+      "lines": ["started"],
+      "phonemes": ["S", "T", "AA1", "R", "T", "AH0", "D"],
+      "init_frame": 1464,
+      "final_frame": 1476,
+      "diff": 12,
+      "phonemes_frame": { "S": 2, "T": 2, "AA1": 2, "R": 2, "AH0": 1, "D": 1 }
+    },
+    {
+      "begin": 61.88,
+      "end": 62.07,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 1486,
+      "final_frame": 1490,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EY1": 2 }
+    },
+    {
+      "begin": 62.07,
+      "end": 62.33,
+      "lines": ["work"],
+      "phonemes": ["W", "ER1", "K"],
+      "init_frame": 1490,
+      "final_frame": 1496,
+      "diff": 6,
+      "phonemes_frame": { "W": 2, "ER1": 2, "K": 2 }
+    },
+    {
+      "begin": 62.42,
+      "end": 63.010000000000005,
+      "lines": ["faithfully"],
+      "phonemes": ["F", "EY1", "TH", "F", "AH0", "L", "IY0"],
+      "init_frame": 1499,
+      "final_frame": 1513,
+      "diff": 14,
+      "phonemes_frame": {
+        "F": 2,
+        "EY1": 2,
+        "TH": 2,
+        "AH0": 2,
+        "L": 2,
+        "IY0": 2
+      }
+    },
+    {
+      "begin": 63.54,
+      "end": 63.83,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 1525,
+      "final_frame": 1532,
+      "diff": 7,
+      "phonemes_frame": { "AH0": 3, "N": 2, "D": 2 }
+    },
+    {
+      "begin": 63.83,
+      "end": 64.12,
+      "lines": ["need"],
+      "phonemes": ["N", "IY1", "D"],
+      "init_frame": 1532,
+      "final_frame": 1539,
+      "diff": 7,
+      "phonemes_frame": { "N": 3, "IY1": 2, "D": 2 }
+    },
+    {
+      "begin": 64.12,
+      "end": 64.43,
+      "lines": ["no"],
+      "phonemes": ["N", "OW1"],
+      "init_frame": 1539,
+      "final_frame": 1547,
+      "diff": 8,
+      "phonemes_frame": { "N": 4, "OW1": 4 }
+    },
+    {
+      "begin": 64.46000000000001,
+      "end": 64.97000000000001,
+      "lines": ["outside"],
+      "phonemes": ["AW1", "T", "S", "AY1", "D"],
+      "init_frame": 1548,
+      "final_frame": 1560,
+      "diff": 12,
+      "phonemes_frame": { "AW1": 3, "T": 3, "S": 2, "AY1": 2, "D": 2 }
+    },
+    {
+      "begin": 64.969999,
+      "end": 65.769999,
+      "lines": ["accountability"],
+      "phonemes": [
+        "AH0",
+        "K",
+        "AW1",
+        "N",
+        "T",
+        "AH0",
+        "B",
+        "IH0",
+        "L",
+        "IH0",
+        "T",
+        "IY0"
+      ],
+      "init_frame": 1560,
+      "final_frame": 1579,
+      "diff": 19,
+      "phonemes_frame": {
+        "AH0": 2,
+        "K": 2,
+        "AW1": 2,
+        "N": 2,
+        "T": 1,
+        "B": 2,
+        "IH0": 1,
+        "L": 1,
+        "IY0": 1
+      }
+    },
+    {
+      "begin": 66.0,
+      "end": 66.14,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 1584,
+      "final_frame": 1588,
+      "diff": 4,
+      "phonemes_frame": { "T": 2, "UW1": 2 }
+    },
+    {
+      "begin": 66.16,
+      "end": 66.39,
+      "lines": ["keep"],
+      "phonemes": ["K", "IY1", "P"],
+      "init_frame": 1588,
+      "final_frame": 1594,
+      "diff": 6,
+      "phonemes_frame": { "K": 2, "IY1": 2, "P": 2 }
+    },
+    {
+      "begin": 66.389999,
+      "end": 66.609999,
+      "lines": ["them"],
+      "phonemes": ["DH", "EH1", "M"],
+      "init_frame": 1594,
+      "final_frame": 1599,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "M": 1 }
+    },
+    {
+      "begin": 66.61,
+      "end": 66.9,
+      "lines": ["doing"],
+      "phonemes": ["D", "UW1", "IH0", "NG"],
+      "init_frame": 1599,
+      "final_frame": 1606,
+      "diff": 7,
+      "phonemes_frame": { "D": 2, "UW1": 2, "IH0": 2, "NG": 1 }
+    },
+    {
+      "begin": 66.91,
+      "end": 67.28,
+      "lines": ["right"],
+      "phonemes": ["R", "AY1", "T"],
+      "init_frame": 1606,
+      "final_frame": 1615,
+      "diff": 9,
+      "phonemes_frame": { "R": 3, "AY1": 3, "T": 3 }
+    },
+    {
+      "begin": 67.63,
+      "end": 67.89,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 1624,
+      "final_frame": 1630,
+      "diff": 6,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 2 }
+    },
+    {
+      "begin": 67.889999,
+      "end": 68.199999,
+      "lines": ["doing"],
+      "phonemes": ["D", "UW1", "IH0", "NG"],
+      "init_frame": 1630,
+      "final_frame": 1637,
+      "diff": 7,
+      "phonemes_frame": { "D": 2, "UW1": 2, "IH0": 2, "NG": 1 }
+    },
+    {
+      "begin": 68.2,
+      "end": 68.3,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 1637,
+      "final_frame": 1640,
+      "diff": 3,
+      "phonemes_frame": { "DH": 2, "AH0": 1 }
+    },
+    {
+      "begin": 68.299999,
+      "end": 68.529999,
+      "lines": ["right"],
+      "phonemes": ["R", "AY1", "T"],
+      "init_frame": 1640,
+      "final_frame": 1645,
+      "diff": 5,
+      "phonemes_frame": { "R": 2, "AY1": 2, "T": 1 }
+    },
+    {
+      "begin": 68.53,
+      "end": 69.03,
+      "lines": ["things"],
+      "phonemes": ["TH", "IH1", "NG", "Z"],
+      "init_frame": 1645,
+      "final_frame": 1657,
+      "diff": 12,
+      "phonemes_frame": { "TH": 3, "IH1": 3, "NG": 3, "Z": 3 }
+    },
+    {
+      "begin": 70.309999,
+      "end": 70.45999900000001,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 1688,
+      "final_frame": 1692,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EY1": 2 }
+    },
+    {
+      "begin": 70.459999,
+      "end": 70.739999,
+      "lines": ["work"],
+      "phonemes": ["W", "ER1", "K"],
+      "init_frame": 1692,
+      "final_frame": 1698,
+      "diff": 6,
+      "phonemes_frame": { "W": 2, "ER1": 2, "K": 2 }
+    },
+    {
+      "begin": 70.74,
+      "end": 71.11,
+      "lines": ["hard"],
+      "phonemes": ["HH", "AA1", "R", "D"],
+      "init_frame": 1698,
+      "final_frame": 1707,
+      "diff": 9,
+      "phonemes_frame": { "HH": 3, "AA1": 2, "R": 2, "D": 2 }
+    },
+    {
+      "begin": 71.65,
+      "end": 71.9,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 1720,
+      "final_frame": 1726,
+      "diff": 6,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 2 }
+    },
+    {
+      "begin": 71.9,
+      "end": 72.09,
+      "lines": ["will"],
+      "phonemes": ["W", "IH1", "L"],
+      "init_frame": 1726,
+      "final_frame": 1731,
+      "diff": 5,
+      "phonemes_frame": { "W": 2, "IH1": 2, "L": 1 }
+    },
+    {
+      "begin": 72.09,
+      "end": 72.67,
+      "lines": ["replace"],
+      "phonemes": ["R", "IY2", "P", "L", "EY1", "S"],
+      "init_frame": 1731,
+      "final_frame": 1745,
+      "diff": 14,
+      "phonemes_frame": { "R": 3, "IY2": 3, "P": 2, "L": 2, "EY1": 2, "S": 2 }
+    },
+    {
+      "begin": 72.69,
+      "end": 72.87,
+      "lines": ["their"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 1745,
+      "final_frame": 1749,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EH1": 1, "R": 1 }
+    },
+    {
+      "begin": 72.9,
+      "end": 73.33000000000001,
+      "lines": ["anthill"],
+      "phonemes": ["AE1", "N", "T", "HH", "IH2", "L"],
+      "init_frame": 1750,
+      "final_frame": 1760,
+      "diff": 10,
+      "phonemes_frame": { "AE1": 2, "N": 2, "T": 2, "HH": 2, "IH2": 1, "L": 1 }
+    },
+    {
+      "begin": 73.55,
+      "end": 73.77,
+      "lines": ["when"],
+      "phonemes": ["W", "EH1", "N"],
+      "init_frame": 1766,
+      "final_frame": 1771,
+      "diff": 5,
+      "phonemes_frame": { "W": 2, "EH1": 2, "N": 1 }
+    },
+    {
+      "begin": 73.77,
+      "end": 73.85,
+      "lines": ["it"],
+      "phonemes": ["IH1", "T"],
+      "init_frame": 1771,
+      "final_frame": 1773,
+      "diff": 2,
+      "phonemes_frame": { "IH1": 1, "T": 1 }
+    },
+    {
+      "begin": 73.85,
+      "end": 74.03,
+      "lines": ["gets"],
+      "phonemes": ["G", "EH1", "T", "S"],
+      "init_frame": 1773,
+      "final_frame": 1777,
+      "diff": 4,
+      "phonemes_frame": { "G": 1, "EH1": 1, "T": 1, "S": 1 }
+    },
+    {
+      "begin": 74.03,
+      "end": 74.4,
+      "lines": ["ruined"],
+      "phonemes": ["R", "UW1", "AH0", "N", "D"],
+      "init_frame": 1777,
+      "final_frame": 1786,
+      "diff": 9,
+      "phonemes_frame": { "R": 2, "UW1": 2, "AH0": 2, "N": 2, "D": 1 }
+    },
+    {
+      "begin": 75.13,
+      "end": 75.61,
+      "lines": ["meaning"],
+      "phonemes": ["M", "IY1", "N", "IH0", "NG"],
+      "init_frame": 1804,
+      "final_frame": 1815,
+      "diff": 11,
+      "phonemes_frame": { "M": 3, "IY1": 2, "N": 2, "IH0": 2, "NG": 2 }
+    },
+    {
+      "begin": 76.37,
+      "end": 76.49000000000001,
+      "lines": ["if"],
+      "phonemes": ["IH1", "F"],
+      "init_frame": 1833,
+      "final_frame": 1836,
+      "diff": 3,
+      "phonemes_frame": { "IH1": 2, "F": 1 }
+    },
+    {
+      "begin": 76.49,
+      "end": 76.58999999999999,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 1836,
+      "final_frame": 1839,
+      "diff": 3,
+      "phonemes_frame": { "Y": 2, "UW1": 1 }
+    },
+    {
+      "begin": 76.59,
+      "end": 76.85000000000001,
+      "lines": ["want"],
+      "phonemes": ["W", "AA1", "N", "T"],
+      "init_frame": 1839,
+      "final_frame": 1845,
+      "diff": 6,
+      "phonemes_frame": { "W": 2, "AA1": 2, "N": 1, "T": 1 }
+    },
+    {
+      "begin": 76.85,
+      "end": 77.00999999999999,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 1845,
+      "final_frame": 1849,
+      "diff": 4,
+      "phonemes_frame": { "T": 2, "UW1": 2 }
+    },
+    {
+      "begin": 77.01,
+      "end": 77.4,
+      "lines": ["apply"],
+      "phonemes": ["AH0", "P", "L", "AY1"],
+      "init_frame": 1849,
+      "final_frame": 1858,
+      "diff": 9,
+      "phonemes_frame": { "AH0": 3, "P": 2, "L": 2, "AY1": 2 }
+    },
+    {
+      "begin": 77.4,
+      "end": 77.69000000000001,
+      "lines": ["this"],
+      "phonemes": ["DH", "IH1", "S"],
+      "init_frame": 1858,
+      "final_frame": 1865,
+      "diff": 7,
+      "phonemes_frame": { "DH": 3, "IH1": 2, "S": 2 }
+    },
+    {
+      "begin": 77.73,
+      "end": 77.89,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 1866,
+      "final_frame": 1870,
+      "diff": 4,
+      "phonemes_frame": { "IH0": 2, "N": 2 }
+    },
+    {
+      "begin": 77.89,
+      "end": 78.05,
+      "lines": ["your"],
+      "phonemes": ["Y", "AO1", "R"],
+      "init_frame": 1870,
+      "final_frame": 1874,
+      "diff": 4,
+      "phonemes_frame": { "Y": 2, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 78.06,
+      "end": 78.33,
+      "lines": ["real"],
+      "phonemes": ["R", "IY1", "L"],
+      "init_frame": 1874,
+      "final_frame": 1880,
+      "diff": 6,
+      "phonemes_frame": { "R": 2, "IY1": 2, "L": 2 }
+    },
+    {
+      "begin": 78.33,
+      "end": 78.71,
+      "lines": ["life"],
+      "phonemes": ["L", "AY1", "F"],
+      "init_frame": 1880,
+      "final_frame": 1890,
+      "diff": 10,
+      "phonemes_frame": { "L": 4, "AY1": 3, "F": 3 }
+    },
+    {
+      "begin": 78.88,
+      "end": 79.38,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 1894,
+      "final_frame": 1906,
+      "diff": 12,
+      "phonemes_frame": { "B": 6, "IY1": 6 }
+    },
+    {
+      "begin": 79.43,
+      "end": 79.99000000000001,
+      "lines": ["proactive"],
+      "phonemes": ["P", "R", "OW1", "AE1", "K", "T", "IH0", "V"],
+      "init_frame": 1907,
+      "final_frame": 1920,
+      "diff": 13,
+      "phonemes_frame": {
+        "P": 2,
+        "R": 2,
+        "OW1": 2,
+        "AE1": 2,
+        "K": 2,
+        "T": 1,
+        "IH0": 1,
+        "V": 1
+      }
+    },
+    {
+      "begin": 80.5,
+      "end": 80.75,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 1932,
+      "final_frame": 1938,
+      "diff": 6,
+      "phonemes_frame": { "B": 3, "IY1": 3 }
+    },
+    {
+      "begin": 80.8,
+      "end": 81.27,
+      "lines": ["honest"],
+      "phonemes": ["AA1", "N", "AH0", "S", "T"],
+      "init_frame": 1940,
+      "final_frame": 1951,
+      "diff": 11,
+      "phonemes_frame": { "AA1": 3, "N": 2, "AH0": 2, "S": 2, "T": 2 }
+    },
+    {
+      "begin": 81.27,
+      "end": 81.35,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 1951,
+      "final_frame": 1953,
+      "diff": 2,
+      "phonemes_frame": { "T": 1, "UW1": 1 }
+    },
+    {
+      "begin": 81.349999,
+      "end": 81.889999,
+      "lines": ["yourself"],
+      "phonemes": ["Y", "ER0", "S", "EH1", "L", "F"],
+      "init_frame": 1953,
+      "final_frame": 1966,
+      "diff": 13,
+      "phonemes_frame": { "Y": 3, "ER0": 2, "S": 2, "EH1": 2, "L": 2, "F": 2 }
+    },
+    {
+      "begin": 82.28,
+      "end": 82.49,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 1975,
+      "final_frame": 1980,
+      "diff": 5,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 1 }
+    },
+    {
+      "begin": 82.49,
+      "end": 82.63,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 1980,
+      "final_frame": 1984,
+      "diff": 4,
+      "phonemes_frame": { "B": 2, "IY1": 2 }
+    },
+    {
+      "begin": 82.63,
+      "end": 83.44999999999999,
+      "lines": ["industrious"],
+      "phonemes": ["IH0", "N", "D", "AH1", "S", "T", "R", "IY0", "AH0", "S"],
+      "init_frame": 1984,
+      "final_frame": 2003,
+      "diff": 19,
+      "phonemes_frame": {
+        "IH0": 2,
+        "N": 2,
+        "D": 2,
+        "AH1": 2,
+        "S": 1,
+        "T": 2,
+        "R": 2,
+        "IY0": 2,
+        "AH0": 2
+      }
+    },
+    {
+      "begin": 85.219999,
+      "end": 85.719999,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 2046,
+      "final_frame": 2058,
+      "diff": 12,
+      "phonemes_frame": { "AE1": 3, "N": 3, "T": 3, "S": 3 }
+    },
+    {
+      "begin": 85.94,
+      "end": 86.25999999999999,
+      "lines": ["plan"],
+      "phonemes": ["P", "L", "AE1", "N"],
+      "init_frame": 2063,
+      "final_frame": 2071,
+      "diff": 8,
+      "phonemes_frame": { "P": 2, "L": 2, "AE1": 2, "N": 2 }
+    },
+    {
+      "begin": 86.259999,
+      "end": 86.63999899999999,
+      "lines": ["ahead"],
+      "phonemes": ["AH0", "HH", "EH1", "D"],
+      "init_frame": 2071,
+      "final_frame": 2080,
+      "diff": 9,
+      "phonemes_frame": { "AH0": 3, "HH": 2, "EH1": 2, "D": 2 }
+    },
+    {
+      "begin": 87.61,
+      "end": 87.91,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 2103,
+      "final_frame": 2110,
+      "diff": 7,
+      "phonemes_frame": { "AE1": 2, "N": 2, "T": 2, "S": 1 }
+    },
+    {
+      "begin": 87.94,
+      "end": 88.23,
+      "lines": ["think"],
+      "phonemes": ["TH", "IH1", "NG", "K"],
+      "init_frame": 2111,
+      "final_frame": 2118,
+      "diff": 7,
+      "phonemes_frame": { "TH": 2, "IH1": 2, "NG": 2, "K": 1 }
+    },
+    {
+      "begin": 88.26,
+      "end": 88.75,
+      "lines": ["winter"],
+      "phonemes": ["W", "IH1", "N", "T", "ER0"],
+      "init_frame": 2119,
+      "final_frame": 2130,
+      "diff": 11,
+      "phonemes_frame": { "W": 3, "IH1": 2, "N": 2, "T": 2, "ER0": 2 }
+    },
+    {
+      "begin": 88.940001,
+      "end": 89.24000099999999,
+      "lines": ["all"],
+      "phonemes": ["AO1", "L"],
+      "init_frame": 2135,
+      "final_frame": 2142,
+      "diff": 7,
+      "phonemes_frame": { "AO1": 4, "L": 3 }
+    },
+    {
+      "begin": 89.24,
+      "end": 89.58999999999999,
+      "lines": ["summer"],
+      "phonemes": ["S", "AH1", "M", "ER0"],
+      "init_frame": 2142,
+      "final_frame": 2151,
+      "diff": 9,
+      "phonemes_frame": { "S": 3, "AH1": 2, "M": 2, "ER0": 2 }
+    },
+    {
+      "begin": 89.59,
+      "end": 89.89,
+      "lines": ["long"],
+      "phonemes": ["L", "AO1", "NG"],
+      "init_frame": 2151,
+      "final_frame": 2158,
+      "diff": 7,
+      "phonemes_frame": { "L": 3, "AO1": 2, "NG": 2 }
+    },
+    {
+      "begin": 90.61,
+      "end": 90.73,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 2175,
+      "final_frame": 2178,
+      "diff": 3,
+      "phonemes_frame": { "DH": 2, "EY1": 1 }
+    },
+    {
+      "begin": 90.73,
+      "end": 91.03,
+      "lines": ["store"],
+      "phonemes": ["S", "T", "AO1", "R"],
+      "init_frame": 2178,
+      "final_frame": 2185,
+      "diff": 7,
+      "phonemes_frame": { "S": 2, "T": 2, "AO1": 2, "R": 1 }
+    },
+    {
+      "begin": 91.03,
+      "end": 91.66,
+      "lines": ["provision"],
+      "phonemes": ["P", "R", "AH0", "V", "IH1", "ZH", "AH0", "N"],
+      "init_frame": 2185,
+      "final_frame": 2200,
+      "diff": 15,
+      "phonemes_frame": {
+        "P": 2,
+        "R": 2,
+        "AH0": 2,
+        "V": 2,
+        "IH1": 2,
+        "ZH": 2,
+        "N": 1
+      }
+    },
+    {
+      "begin": 91.74,
+      "end": 91.96,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 2202,
+      "final_frame": 2208,
+      "diff": 6,
+      "phonemes_frame": { "IH0": 3, "N": 3 }
+    },
+    {
+      "begin": 91.96,
+      "end": 92.25,
+      "lines": ["summer"],
+      "phonemes": ["S", "AH1", "M", "ER0"],
+      "init_frame": 2208,
+      "final_frame": 2214,
+      "diff": 6,
+      "phonemes_frame": { "S": 2, "AH1": 2, "M": 1, "ER0": 1 }
+    },
+    {
+      "begin": 92.82,
+      "end": 92.97,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 2228,
+      "final_frame": 2232,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EY1": 2 }
+    },
+    {
+      "begin": 92.97,
+      "end": 93.25,
+      "lines": ["think"],
+      "phonemes": ["TH", "IH1", "NG", "K"],
+      "init_frame": 2232,
+      "final_frame": 2238,
+      "diff": 6,
+      "phonemes_frame": { "TH": 2, "IH1": 2, "NG": 1, "K": 1 }
+    },
+    {
+      "begin": 93.25,
+      "end": 93.36,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 2238,
+      "final_frame": 2241,
+      "diff": 3,
+      "phonemes_frame": { "DH": 2, "AH0": 1 }
+    },
+    {
+      "begin": 93.36,
+      "end": 93.73,
+      "lines": ["clock"],
+      "phonemes": ["K", "L", "AA1", "K"],
+      "init_frame": 2241,
+      "final_frame": 2250,
+      "diff": 9,
+      "phonemes_frame": { "K": 2, "L": 2, "AA1": 2 }
+    },
+    {
+      "begin": 93.73,
+      "end": 93.91000000000001,
+      "lines": ["is"],
+      "phonemes": ["IH1", "Z"],
+      "init_frame": 2250,
+      "final_frame": 2254,
+      "diff": 4,
+      "phonemes_frame": { "IH1": 2, "Z": 2 }
+    },
+    {
+      "begin": 93.91,
+      "end": 94.25,
+      "lines": ["running"],
+      "phonemes": ["R", "AH1", "N", "IH0", "NG"],
+      "init_frame": 2254,
+      "final_frame": 2262,
+      "diff": 8,
+      "phonemes_frame": { "R": 2, "AH1": 2, "N": 2, "IH0": 1, "NG": 1 }
+    },
+    {
+      "begin": 94.25,
+      "end": 94.35,
+      "lines": ["out"],
+      "phonemes": ["AW1", "T"],
+      "init_frame": 2262,
+      "final_frame": 2265,
+      "diff": 3,
+      "phonemes_frame": { "AW1": 2, "T": 1 }
+    },
+    {
+      "begin": 94.35,
+      "end": 94.46,
+      "lines": ["of"],
+      "phonemes": ["AH1", "V"],
+      "init_frame": 2265,
+      "final_frame": 2268,
+      "diff": 3,
+      "phonemes_frame": { "AH1": 2, "V": 1 }
+    },
+    {
+      "begin": 94.46,
+      "end": 94.85,
+      "lines": ["time"],
+      "phonemes": ["T", "AY1", "M"],
+      "init_frame": 2268,
+      "final_frame": 2277,
+      "diff": 9,
+      "phonemes_frame": { "T": 3, "AY1": 3, "M": 3 }
+    },
+    {
+      "begin": 95.08,
+      "end": 95.28999999999999,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 2282,
+      "final_frame": 2287,
+      "diff": 5,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 1 }
+    },
+    {
+      "begin": 95.29,
+      "end": 95.43,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 2287,
+      "final_frame": 2291,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EY1": 2 }
+    },
+    {
+      "begin": 95.43,
+      "end": 95.56,
+      "lines": ["are"],
+      "phonemes": ["AA1", "R"],
+      "init_frame": 2291,
+      "final_frame": 2294,
+      "diff": 3,
+      "phonemes_frame": { "AA1": 2, "R": 1 }
+    },
+    {
+      "begin": 95.61,
+      "end": 96.01,
+      "lines": ["hurrying"],
+      "phonemes": ["HH", "ER1", "IY0", "IH0", "NG"],
+      "init_frame": 2295,
+      "final_frame": 2305,
+      "diff": 10,
+      "phonemes_frame": { "HH": 2, "ER1": 2, "IY0": 2, "IH0": 2, "NG": 2 }
+    },
+    {
+      "begin": 96.04,
+      "end": 96.15,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 2305,
+      "final_frame": 2308,
+      "diff": 3,
+      "phonemes_frame": { "T": 2, "UW1": 1 }
+    },
+    {
+      "begin": 96.15,
+      "end": 96.35000000000001,
+      "lines": ["get"],
+      "phonemes": ["G", "EH1", "T"],
+      "init_frame": 2308,
+      "final_frame": 2313,
+      "diff": 5,
+      "phonemes_frame": { "G": 2, "EH1": 2, "T": 1 }
+    },
+    {
+      "begin": 96.35,
+      "end": 96.6,
+      "lines": ["food"],
+      "phonemes": ["F", "UW1", "D"],
+      "init_frame": 2313,
+      "final_frame": 2319,
+      "diff": 6,
+      "phonemes_frame": { "F": 2, "UW1": 2, "D": 2 }
+    },
+    {
+      "begin": 96.64,
+      "end": 96.97,
+      "lines": ["back"],
+      "phonemes": ["B", "AE1", "K"],
+      "init_frame": 2320,
+      "final_frame": 2328,
+      "diff": 8,
+      "phonemes_frame": { "B": 3, "AE1": 3, "K": 2 }
+    },
+    {
+      "begin": 96.97,
+      "end": 97.11,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 2328,
+      "final_frame": 2331,
+      "diff": 3,
+      "phonemes_frame": { "T": 2, "UW1": 1 }
+    },
+    {
+      "begin": 97.11,
+      "end": 97.3,
+      "lines": ["their"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 2331,
+      "final_frame": 2336,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "R": 1 }
+    },
+    {
+      "begin": 97.3,
+      "end": 97.64,
+      "lines": ["hive"],
+      "phonemes": ["HH", "AY1", "V"],
+      "init_frame": 2336,
+      "final_frame": 2344,
+      "diff": 8,
+      "phonemes_frame": { "HH": 3, "AY1": 3, "V": 2 }
+    },
+    {
+      "begin": 99.24,
+      "end": 99.61,
+      "lines": ["meaning"],
+      "phonemes": ["M", "IY1", "N", "IH0", "NG"],
+      "init_frame": 2382,
+      "final_frame": 2391,
+      "diff": 9,
+      "phonemes_frame": { "M": 2, "IY1": 2, "N": 2, "IH0": 2, "NG": 1 }
+    },
+    {
+      "begin": 100.28,
+      "end": 100.51,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 2407,
+      "final_frame": 2413,
+      "diff": 6,
+      "phonemes_frame": { "DH": 3, "EY1": 3 }
+    },
+    {
+      "begin": 100.51,
+      "end": 100.83,
+      "lines": ["hustle"],
+      "phonemes": ["HH", "AH1", "S", "AH0", "L"],
+      "init_frame": 2413,
+      "final_frame": 2420,
+      "diff": 7,
+      "phonemes_frame": { "HH": 2, "AH1": 2, "S": 1, "AH0": 1, "L": 1 }
+    },
+    {
+      "begin": 100.83,
+      "end": 101.17,
+      "lines": ["hard"],
+      "phonemes": ["HH", "AA1", "R", "D"],
+      "init_frame": 2420,
+      "final_frame": 2429,
+      "diff": 9,
+      "phonemes_frame": { "HH": 3, "AA1": 2, "R": 2, "D": 2 }
+    },
+    {
+      "begin": 101.469999,
+      "end": 101.629999,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 2436,
+      "final_frame": 2440,
+      "diff": 4,
+      "phonemes_frame": { "IH0": 2, "N": 2 }
+    },
+    {
+      "begin": 101.63,
+      "end": 102.33,
+      "lines": ["advance"],
+      "phonemes": ["AH0", "D", "V", "AE1", "N", "S"],
+      "init_frame": 2440,
+      "final_frame": 2456,
+      "diff": 16,
+      "phonemes_frame": { "AH0": 3, "D": 3, "V": 3, "AE1": 3, "N": 2, "S": 2 }
+    },
+    {
+      "begin": 102.53,
+      "end": 102.69,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 2461,
+      "final_frame": 2465,
+      "diff": 4,
+      "phonemes_frame": { "T": 2, "UW1": 2 }
+    },
+    {
+      "begin": 102.69,
+      "end": 103.28999999999999,
+      "lines": ["secure"],
+      "phonemes": ["S", "IH0", "K", "Y", "UH1", "R"],
+      "init_frame": 2465,
+      "final_frame": 2479,
+      "diff": 14,
+      "phonemes_frame": { "S": 3, "IH0": 3, "K": 2, "Y": 2, "UH1": 2, "R": 2 }
+    },
+    {
+      "begin": 103.28999999999999,
+      "end": 103.49999999999999,
+      "lines": ["their"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 2479,
+      "final_frame": 2484,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "R": 1 }
+    },
+    {
+      "begin": 103.5,
+      "end": 104.04,
+      "lines": ["future"],
+      "phonemes": ["F", "Y", "UW1", "CH", "ER0"],
+      "init_frame": 2484,
+      "final_frame": 2497,
+      "diff": 13,
+      "phonemes_frame": { "F": 3, "Y": 3, "UW1": 3, "CH": 2, "ER0": 2 }
+    },
+    {
+      "begin": 105.4,
+      "end": 105.83000000000001,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 2530,
+      "final_frame": 2540,
+      "diff": 10,
+      "phonemes_frame": { "AE1": 3, "N": 3, "T": 2, "S": 2 }
+    },
+    {
+      "begin": 105.92,
+      "end": 106.23,
+      "lines": ["stay"],
+      "phonemes": ["S", "T", "EY1"],
+      "init_frame": 2543,
+      "final_frame": 2550,
+      "diff": 7,
+      "phonemes_frame": { "S": 3, "T": 2, "EY1": 2 }
+    },
+    {
+      "begin": 106.23,
+      "end": 106.72,
+      "lines": ["positive"],
+      "phonemes": ["P", "AA1", "Z", "AH0", "T", "IH0", "V"],
+      "init_frame": 2550,
+      "final_frame": 2562,
+      "diff": 12,
+      "phonemes_frame": {
+        "P": 2,
+        "AA1": 2,
+        "Z": 2,
+        "AH0": 2,
+        "T": 2,
+        "IH0": 1,
+        "V": 1
+      }
+    },
+    {
+      "begin": 107.029999,
+      "end": 107.599999,
+      "lines": ["always"],
+      "phonemes": ["AO1", "L", "W", "EY2", "Z"],
+      "init_frame": 2569,
+      "final_frame": 2583,
+      "diff": 14,
+      "phonemes_frame": { "AO1": 3, "L": 3, "W": 3, "EY2": 3, "Z": 2 }
+    },
+    {
+      "begin": 108.55,
+      "end": 108.84,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 2606,
+      "final_frame": 2613,
+      "diff": 7,
+      "phonemes_frame": { "AE1": 2, "N": 2, "T": 2, "S": 1 }
+    },
+    {
+      "begin": 108.84,
+      "end": 109.18,
+      "lines": ["remind"],
+      "phonemes": ["R", "IY0", "M", "AY1", "N", "D"],
+      "init_frame": 2613,
+      "final_frame": 2621,
+      "diff": 8,
+      "phonemes_frame": { "R": 2, "IY0": 2, "M": 1, "AY1": 1, "N": 1, "D": 1 }
+    },
+    {
+      "begin": 109.18,
+      "end": 109.65,
+      "lines": ["themselves"],
+      "phonemes": ["DH", "EH0", "M", "S", "EH1", "L", "V", "Z"],
+      "init_frame": 2621,
+      "final_frame": 2632,
+      "diff": 11,
+      "phonemes_frame": {
+        "DH": 2,
+        "EH0": 2,
+        "M": 2,
+        "S": 1,
+        "EH1": 1,
+        "L": 1,
+        "V": 1,
+        "Z": 1
+      }
+    },
+    {
+      "begin": 109.85,
+      "end": 110.05,
+      "lines": ["that"],
+      "phonemes": ["DH", "AE1", "T"],
+      "init_frame": 2637,
+      "final_frame": 2642,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "AE1": 2, "T": 1 }
+    },
+    {
+      "begin": 110.05,
+      "end": 110.36999999999999,
+      "lines": ["winter"],
+      "phonemes": ["W", "IH1", "N", "T", "ER0"],
+      "init_frame": 2642,
+      "final_frame": 2649,
+      "diff": 7,
+      "phonemes_frame": { "W": 2, "IH1": 2, "N": 1, "T": 1, "ER0": 1 }
+    },
+    {
+      "begin": 110.37,
+      "end": 110.57000000000001,
+      "lines": ["does"],
+      "phonemes": ["D", "AH1", "Z"],
+      "init_frame": 2649,
+      "final_frame": 2654,
+      "diff": 5,
+      "phonemes_frame": { "D": 2, "AH1": 2, "Z": 1 }
+    },
+    {
+      "begin": 110.57,
+      "end": 110.8,
+      "lines": ["not"],
+      "phonemes": ["N", "AA1", "T"],
+      "init_frame": 2654,
+      "final_frame": 2660,
+      "diff": 6,
+      "phonemes_frame": { "N": 2, "AA1": 2, "T": 2 }
+    },
+    {
+      "begin": 110.8,
+      "end": 111.1,
+      "lines": ["last"],
+      "phonemes": ["L", "AE1", "S", "T"],
+      "init_frame": 2660,
+      "final_frame": 2667,
+      "diff": 7,
+      "phonemes_frame": { "L": 2, "AE1": 2, "S": 2, "T": 1 }
+    },
+    {
+      "begin": 111.1,
+      "end": 111.33,
+      "lines": ["long"],
+      "phonemes": ["L", "AO1", "NG"],
+      "init_frame": 2667,
+      "final_frame": 2672,
+      "diff": 5,
+      "phonemes_frame": { "L": 2, "AO1": 2, "NG": 1 }
+    },
+    {
+      "begin": 111.79,
+      "end": 112.0,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 2683,
+      "final_frame": 2688,
+      "diff": 5,
+      "phonemes_frame": { "DH": 3, "EY1": 2 }
+    },
+    {
+      "begin": 112.0,
+      "end": 112.41,
+      "lines": ["know"],
+      "phonemes": ["N", "OW1"],
+      "init_frame": 2688,
+      "final_frame": 2698,
+      "diff": 10,
+      "phonemes_frame": { "N": 5, "OW1": 5 }
+    },
+    {
+      "begin": 112.56,
+      "end": 112.77,
+      "lines": ["they'll"],
+      "phonemes": ["DH", "EY1", "L"],
+      "init_frame": 2702,
+      "final_frame": 2707,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EY1": 2, "L": 1 }
+    },
+    {
+      "begin": 112.77,
+      "end": 113.08999999999999,
+      "lines": ["soon"],
+      "phonemes": ["S", "UW1", "N"],
+      "init_frame": 2707,
+      "final_frame": 2715,
+      "diff": 8,
+      "phonemes_frame": { "S": 3, "UW1": 3, "N": 2 }
+    },
+    {
+      "begin": 113.09,
+      "end": 113.32000000000001,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 2715,
+      "final_frame": 2720,
+      "diff": 5,
+      "phonemes_frame": { "B": 3, "IY1": 2 }
+    },
+    {
+      "begin": 113.32,
+      "end": 113.57,
+      "lines": ["out"],
+      "phonemes": ["AW1", "T"],
+      "init_frame": 2720,
+      "final_frame": 2726,
+      "diff": 6,
+      "phonemes_frame": { "AW1": 3, "T": 3 }
+    },
+    {
+      "begin": 114.87,
+      "end": 115.31,
+      "lines": ["meaning"],
+      "phonemes": ["M", "IY1", "N", "IH0", "NG"],
+      "init_frame": 2757,
+      "final_frame": 2768,
+      "diff": 11,
+      "phonemes_frame": { "M": 3, "IY1": 2, "N": 2, "IH0": 2, "NG": 2 }
+    },
+    {
+      "begin": 116.099999,
+      "end": 116.459999,
+      "lines": ["whatever"],
+      "phonemes": ["W", "AH2", "T", "EH1", "V", "ER0"],
+      "init_frame": 2787,
+      "final_frame": 2796,
+      "diff": 9,
+      "phonemes_frame": { "W": 2, "AH2": 2, "T": 2, "EH1": 1, "V": 1, "ER0": 1 }
+    },
+    {
+      "begin": 116.46000000000001,
+      "end": 116.9,
+      "lines": ["happens"],
+      "phonemes": ["HH", "AE1", "P", "AH0", "N", "Z"],
+      "init_frame": 2796,
+      "final_frame": 2806,
+      "diff": 10,
+      "phonemes_frame": { "HH": 2, "AE1": 2, "P": 2, "AH0": 2, "N": 1, "Z": 1 }
+    },
+    {
+      "begin": 116.9,
+      "end": 117.01,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 2806,
+      "final_frame": 2809,
+      "diff": 3,
+      "phonemes_frame": { "IH0": 2, "N": 1 }
+    },
+    {
+      "begin": 117.01,
+      "end": 117.16000000000001,
+      "lines": ["your"],
+      "phonemes": ["Y", "AO1", "R"],
+      "init_frame": 2809,
+      "final_frame": 2812,
+      "diff": 3,
+      "phonemes_frame": { "Y": 1, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 117.16,
+      "end": 117.45,
+      "lines": ["life"],
+      "phonemes": ["L", "AY1", "F"],
+      "init_frame": 2812,
+      "final_frame": 2819,
+      "diff": 7,
+      "phonemes_frame": { "L": 3, "AY1": 2, "F": 2 }
+    },
+    {
+      "begin": 117.45,
+      "end": 117.66,
+      "lines": ["right"],
+      "phonemes": ["R", "AY1", "T"],
+      "init_frame": 2819,
+      "final_frame": 2824,
+      "diff": 5,
+      "phonemes_frame": { "R": 2, "AY1": 2, "T": 1 }
+    },
+    {
+      "begin": 117.66,
+      "end": 117.94,
+      "lines": ["now"],
+      "phonemes": ["N", "AW1"],
+      "init_frame": 2824,
+      "final_frame": 2831,
+      "diff": 7,
+      "phonemes_frame": { "N": 4, "AW1": 3 }
+    },
+    {
+      "begin": 118.309999,
+      "end": 118.449999,
+      "lines": ["it"],
+      "phonemes": ["IH1", "T"],
+      "init_frame": 2840,
+      "final_frame": 2843,
+      "diff": 3,
+      "phonemes_frame": { "IH1": 2, "T": 1 }
+    },
+    {
+      "begin": 118.48,
+      "end": 118.75,
+      "lines": ["will"],
+      "phonemes": ["W", "IH1", "L"],
+      "init_frame": 2844,
+      "final_frame": 2850,
+      "diff": 6,
+      "phonemes_frame": { "W": 2, "IH1": 2, "L": 2 }
+    },
+    {
+      "begin": 118.75,
+      "end": 119.12,
+      "lines": ["not"],
+      "phonemes": ["N", "AA1", "T"],
+      "init_frame": 2850,
+      "final_frame": 2859,
+      "diff": 9,
+      "phonemes_frame": { "N": 3, "AA1": 3, "T": 3 }
+    },
+    {
+      "begin": 119.12,
+      "end": 119.46000000000001,
+      "lines": ["last"],
+      "phonemes": ["L", "AE1", "S", "T"],
+      "init_frame": 2859,
+      "final_frame": 2868,
+      "diff": 9,
+      "phonemes_frame": { "L": 3, "AE1": 2, "S": 2, "T": 2 }
+    },
+    {
+      "begin": 119.46000000000001,
+      "end": 119.89000000000001,
+      "lines": ["forever"],
+      "phonemes": ["F", "ER0", "EH1", "V", "ER0"],
+      "init_frame": 2868,
+      "final_frame": 2878,
+      "diff": 10,
+      "phonemes_frame": { "F": 2, "ER0": 2, "EH1": 2, "V": 2 }
+    },
+    {
+      "begin": 121.46000000000001,
+      "end": 121.89000000000001,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 2916,
+      "final_frame": 2926,
+      "diff": 10,
+      "phonemes_frame": { "AE1": 3, "N": 3, "T": 2, "S": 2 }
+    },
+    {
+      "begin": 122.03999999999999,
+      "end": 122.44,
+      "lines": ["never"],
+      "phonemes": ["N", "EH1", "V", "ER0"],
+      "init_frame": 2929,
+      "final_frame": 2939,
+      "diff": 10,
+      "phonemes_frame": { "N": 3, "EH1": 3, "V": 2, "ER0": 2 }
+    },
+    {
+      "begin": 122.52,
+      "end": 122.89,
+      "lines": ["quit"],
+      "phonemes": ["K", "W", "IH1", "T"],
+      "init_frame": 2941,
+      "final_frame": 2950,
+      "diff": 9,
+      "phonemes_frame": { "K": 3, "W": 2, "IH1": 2, "T": 2 }
+    },
+    {
+      "begin": 123.32,
+      "end": 123.47,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 2960,
+      "final_frame": 2964,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EY1": 2 }
+    },
+    {
+      "begin": 123.469999,
+      "end": 123.75999900000001,
+      "lines": ["only"],
+      "phonemes": ["OW1", "N", "L", "IY0"],
+      "init_frame": 2964,
+      "final_frame": 2971,
+      "diff": 7,
+      "phonemes_frame": { "OW1": 2, "N": 2, "L": 2, "IY0": 1 }
+    },
+    {
+      "begin": 123.77,
+      "end": 124.39999999999999,
+      "lines": ["change"],
+      "phonemes": ["CH", "EY1", "N", "JH"],
+      "init_frame": 2971,
+      "final_frame": 2986,
+      "diff": 15,
+      "phonemes_frame": { "CH": 4, "EY1": 4, "N": 4, "JH": 3 }
+    },
+    {
+      "begin": 124.44999899999999,
+      "end": 124.63999899999999,
+      "lines": ["their"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 2987,
+      "final_frame": 2992,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "R": 1 }
+    },
+    {
+      "begin": 124.639999,
+      "end": 125.229999,
+      "lines": ["approach"],
+      "phonemes": ["AH0", "P", "R", "OW1", "CH"],
+      "init_frame": 2992,
+      "final_frame": 3006,
+      "diff": 14,
+      "phonemes_frame": { "AH0": 3, "P": 3, "R": 3, "OW1": 3, "CH": 2 }
+    },
+    {
+      "begin": 126.64,
+      "end": 126.73,
+      "lines": ["if"],
+      "phonemes": ["IH1", "F"],
+      "init_frame": 3040,
+      "final_frame": 3042,
+      "diff": 2,
+      "phonemes_frame": { "IH1": 1, "F": 1 }
+    },
+    {
+      "begin": 126.73,
+      "end": 126.93,
+      "lines": ["they're"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 3042,
+      "final_frame": 3047,
+      "diff": 5,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "R": 1 }
+    },
+    {
+      "begin": 126.93,
+      "end": 127.25,
+      "lines": ["going"],
+      "phonemes": ["G", "OW1", "IH0", "NG"],
+      "init_frame": 3047,
+      "final_frame": 3054,
+      "diff": 7,
+      "phonemes_frame": { "G": 2, "OW1": 2, "IH0": 2, "NG": 1 }
+    },
+    {
+      "begin": 127.25,
+      "end": 127.77,
+      "lines": ["somewhere"],
+      "phonemes": ["S", "AH1", "M", "W", "EH2", "R"],
+      "init_frame": 3054,
+      "final_frame": 3067,
+      "diff": 13,
+      "phonemes_frame": { "S": 3, "AH1": 2, "M": 2, "W": 2, "EH2": 2, "R": 2 }
+    },
+    {
+      "begin": 127.97,
+      "end": 128.1,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 3072,
+      "final_frame": 3075,
+      "diff": 3,
+      "phonemes_frame": { "AH0": 1, "N": 1, "D": 1 }
+    },
+    {
+      "begin": 128.1,
+      "end": 128.22,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 3075,
+      "final_frame": 3078,
+      "diff": 3,
+      "phonemes_frame": { "Y": 2, "UW1": 1 }
+    },
+    {
+      "begin": 128.22,
+      "end": 128.59,
+      "lines": ["stop"],
+      "phonemes": ["S", "T", "AA1", "P"],
+      "init_frame": 3078,
+      "final_frame": 3087,
+      "diff": 9,
+      "phonemes_frame": { "S": 3, "T": 2, "AA1": 2, "P": 2 }
+    },
+    {
+      "begin": 128.59,
+      "end": 128.87,
+      "lines": ["them"],
+      "phonemes": ["DH", "EH1", "M"],
+      "init_frame": 3087,
+      "final_frame": 3093,
+      "diff": 6,
+      "phonemes_frame": { "DH": 2, "EH1": 2, "M": 2 }
+    },
+    {
+      "begin": 129.11,
+      "end": 129.23000000000002,
+      "lines": ["or"],
+      "phonemes": ["AO1", "R"],
+      "init_frame": 3099,
+      "final_frame": 3102,
+      "diff": 3,
+      "phonemes_frame": { "AO1": 2, "R": 1 }
+    },
+    {
+      "begin": 129.23,
+      "end": 129.57999999999998,
+      "lines": ["block"],
+      "phonemes": ["B", "L", "AA1", "K"],
+      "init_frame": 3102,
+      "final_frame": 3110,
+      "diff": 8,
+      "phonemes_frame": { "B": 2, "L": 2, "AA1": 2, "K": 2 }
+    },
+    {
+      "begin": 129.58,
+      "end": 129.75,
+      "lines": ["their"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 3110,
+      "final_frame": 3114,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EH1": 1, "R": 1 }
+    },
+    {
+      "begin": 129.76,
+      "end": 130.26,
+      "lines": ["pathway"],
+      "phonemes": ["P", "AE1", "TH", "W", "EY2"],
+      "init_frame": 3115,
+      "final_frame": 3127,
+      "diff": 12,
+      "phonemes_frame": { "P": 3, "AE1": 3, "TH": 2, "W": 2, "EY2": 2 }
+    },
+    {
+      "begin": 130.65,
+      "end": 130.91,
+      "lines": ["they'll"],
+      "phonemes": ["DH", "EY1", "L"],
+      "init_frame": 3136,
+      "final_frame": 3142,
+      "diff": 6,
+      "phonemes_frame": { "DH": 2, "EY1": 2, "L": 2 }
+    },
+    {
+      "begin": 130.91,
+      "end": 131.14,
+      "lines": ["look"],
+      "phonemes": ["L", "UH1", "K"],
+      "init_frame": 3142,
+      "final_frame": 3148,
+      "diff": 6,
+      "phonemes_frame": { "L": 2, "UH1": 2, "K": 2 }
+    },
+    {
+      "begin": 131.15,
+      "end": 131.32,
+      "lines": ["for"],
+      "phonemes": ["F", "AO1", "R"],
+      "init_frame": 3148,
+      "final_frame": 3152,
+      "diff": 4,
+      "phonemes_frame": { "F": 2, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 131.32,
+      "end": 131.66,
+      "lines": ["another"],
+      "phonemes": ["AH0", "N", "AH1", "DH", "ER0"],
+      "init_frame": 3152,
+      "final_frame": 3160,
+      "diff": 8,
+      "phonemes_frame": { "AH0": 2, "N": 2, "AH1": 2, "DH": 1, "ER0": 1 }
+    },
+    {
+      "begin": 131.66,
+      "end": 131.91,
+      "lines": ["way"],
+      "phonemes": ["W", "EY1"],
+      "init_frame": 3160,
+      "final_frame": 3166,
+      "diff": 6,
+      "phonemes_frame": { "W": 3, "EY1": 3 }
+    },
+    {
+      "begin": 131.91,
+      "end": 132.21,
+      "lines": ["up"],
+      "phonemes": ["AH1", "P"],
+      "init_frame": 3166,
+      "final_frame": 3174,
+      "diff": 8,
+      "phonemes_frame": { "AH1": 4, "P": 4 }
+    },
+    {
+      "begin": 132.6,
+      "end": 132.98999999999998,
+      "lines": ["down"],
+      "phonemes": ["D", "AW1", "N"],
+      "init_frame": 3183,
+      "final_frame": 3192,
+      "diff": 9,
+      "phonemes_frame": { "D": 3, "AW1": 3, "N": 3 }
+    },
+    {
+      "begin": 133.39,
+      "end": 133.6,
+      "lines": ["all"],
+      "phonemes": ["AO1", "L"],
+      "init_frame": 3202,
+      "final_frame": 3207,
+      "diff": 5,
+      "phonemes_frame": { "AO1": 3, "L": 2 }
+    },
+    {
+      "begin": 133.6,
+      "end": 133.98999999999998,
+      "lines": ["around"],
+      "phonemes": ["ER0", "AW1", "N", "D"],
+      "init_frame": 3207,
+      "final_frame": 3216,
+      "diff": 9,
+      "phonemes_frame": { "ER0": 3, "AW1": 2, "N": 2, "D": 2 }
+    },
+    {
+      "begin": 134.49,
+      "end": 134.69,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 3228,
+      "final_frame": 3233,
+      "diff": 5,
+      "phonemes_frame": { "DH": 3, "EY1": 2 }
+    },
+    {
+      "begin": 134.69,
+      "end": 134.93,
+      "lines": ["keep"],
+      "phonemes": ["K", "IY1", "P"],
+      "init_frame": 3233,
+      "final_frame": 3239,
+      "diff": 6,
+      "phonemes_frame": { "K": 2, "IY1": 2, "P": 2 }
+    },
+    {
+      "begin": 134.94,
+      "end": 135.42,
+      "lines": ["looking"],
+      "phonemes": ["L", "UH1", "K", "IH0", "NG"],
+      "init_frame": 3239,
+      "final_frame": 3251,
+      "diff": 12,
+      "phonemes_frame": { "L": 3, "UH1": 3, "K": 2, "IH0": 2, "NG": 2 }
+    },
+    {
+      "begin": 135.5,
+      "end": 135.69,
+      "lines": ["till"],
+      "phonemes": ["T", "IH1", "L"],
+      "init_frame": 3252,
+      "final_frame": 3257,
+      "diff": 5,
+      "phonemes_frame": { "T": 2, "IH1": 2, "L": 1 }
+    },
+    {
+      "begin": 135.69,
+      "end": 135.82,
+      "lines": ["they"],
+      "phonemes": ["DH", "EY1"],
+      "init_frame": 3257,
+      "final_frame": 3260,
+      "diff": 3,
+      "phonemes_frame": { "DH": 2, "EY1": 1 }
+    },
+    {
+      "begin": 135.82,
+      "end": 136.10999999999999,
+      "lines": ["find"],
+      "phonemes": ["F", "AY1", "N", "D"],
+      "init_frame": 3260,
+      "final_frame": 3267,
+      "diff": 7,
+      "phonemes_frame": { "F": 2, "AY1": 2, "N": 2, "D": 1 }
+    },
+    {
+      "begin": 136.11,
+      "end": 136.44000000000003,
+      "lines": ["another"],
+      "phonemes": ["AH0", "N", "AH1", "DH", "ER0"],
+      "init_frame": 3267,
+      "final_frame": 3275,
+      "diff": 8,
+      "phonemes_frame": { "AH0": 2, "N": 2, "AH1": 2, "DH": 1, "ER0": 1 }
+    },
+    {
+      "begin": 136.44,
+      "end": 136.68,
+      "lines": ["way"],
+      "phonemes": ["W", "EY1"],
+      "init_frame": 3275,
+      "final_frame": 3281,
+      "diff": 6,
+      "phonemes_frame": { "W": 3, "EY1": 3 }
+    },
+    {
+      "begin": 137.8,
+      "end": 138.15,
+      "lines": ["meaning"],
+      "phonemes": ["M", "IY1", "N", "IH0", "NG"],
+      "init_frame": 3308,
+      "final_frame": 3316,
+      "diff": 8,
+      "phonemes_frame": { "M": 2, "IY1": 2, "N": 2, "IH0": 1, "NG": 1 }
+    },
+    {
+      "begin": 138.92,
+      "end": 139.17,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 3335,
+      "final_frame": 3341,
+      "diff": 6,
+      "phonemes_frame": { "B": 3, "IY1": 3 }
+    },
+    {
+      "begin": 139.17,
+      "end": 139.5,
+      "lines": ["learned"],
+      "phonemes": ["L", "ER1", "N", "IH0", "D"],
+      "init_frame": 3341,
+      "final_frame": 3348,
+      "diff": 7,
+      "phonemes_frame": { "L": 2, "ER1": 2, "N": 1, "IH0": 1, "D": 1 }
+    },
+    {
+      "begin": 139.5,
+      "end": 139.66,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 3348,
+      "final_frame": 3352,
+      "diff": 4,
+      "phonemes_frame": { "T": 2, "UW1": 2 }
+    },
+    {
+      "begin": 139.66,
+      "end": 140.01,
+      "lines": ["embrace"],
+      "phonemes": ["EH0", "M", "B", "R", "EY1", "S"],
+      "init_frame": 3352,
+      "final_frame": 3361,
+      "diff": 9,
+      "phonemes_frame": { "EH0": 2, "M": 2, "B": 2, "R": 1, "EY1": 1, "S": 1 }
+    },
+    {
+      "begin": 140.02,
+      "end": 140.49,
+      "lines": ["struggle"],
+      "phonemes": ["S", "T", "R", "AH1", "G", "AH0", "L"],
+      "init_frame": 3361,
+      "final_frame": 3372,
+      "diff": 11,
+      "phonemes_frame": {
+        "S": 2,
+        "T": 2,
+        "R": 2,
+        "AH1": 2,
+        "G": 1,
+        "AH0": 1,
+        "L": 1
+      }
+    },
+    {
+      "begin": 140.7,
+      "end": 140.91,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 3377,
+      "final_frame": 3382,
+      "diff": 5,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 1 }
+    },
+    {
+      "begin": 140.92,
+      "end": 141.47,
+      "lines": ["hardship"],
+      "phonemes": ["HH", "AA1", "R", "D", "SH", "IH0", "P"],
+      "init_frame": 3383,
+      "final_frame": 3396,
+      "diff": 13,
+      "phonemes_frame": {
+        "HH": 2,
+        "AA1": 2,
+        "R": 2,
+        "D": 2,
+        "SH": 2,
+        "IH0": 2,
+        "P": 1
+      }
+    },
+    {
+      "begin": 141.469999,
+      "end": 141.599999,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 3396,
+      "final_frame": 3399,
+      "diff": 3,
+      "phonemes_frame": { "IH0": 2, "N": 1 }
+    },
+    {
+      "begin": 141.599999,
+      "end": 141.729999,
+      "lines": ["your"],
+      "phonemes": ["Y", "AO1", "R"],
+      "init_frame": 3399,
+      "final_frame": 3402,
+      "diff": 3,
+      "phonemes_frame": { "Y": 1, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 141.73,
+      "end": 142.13,
+      "lines": ["life"],
+      "phonemes": ["L", "AY1", "F"],
+      "init_frame": 3402,
+      "final_frame": 3412,
+      "diff": 10,
+      "phonemes_frame": { "L": 4, "AY1": 3, "F": 3 }
+    },
+    {
+      "begin": 142.609999,
+      "end": 142.909999,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 3423,
+      "final_frame": 3430,
+      "diff": 7,
+      "phonemes_frame": { "B": 4, "IY1": 3 }
+    },
+    {
+      "begin": 142.91,
+      "end": 143.43,
+      "lines": ["flexible"],
+      "phonemes": ["F", "L", "EH1", "K", "S", "AH0", "B", "AH0", "L"],
+      "init_frame": 3430,
+      "final_frame": 3443,
+      "diff": 13,
+      "phonemes_frame": {
+        "F": 2,
+        "L": 1,
+        "EH1": 2,
+        "K": 2,
+        "S": 1,
+        "AH0": 1,
+        "B": 1
+      }
+    },
+    {
+      "begin": 143.779999,
+      "end": 143.869999,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 3451,
+      "final_frame": 3453,
+      "diff": 2,
+      "phonemes_frame": { "AH0": 1, "N": 1, "D": 0 }
+    },
+    {
+      "begin": 143.879999,
+      "end": 144.079999,
+      "lines": ["be"],
+      "phonemes": ["B", "IY1"],
+      "init_frame": 3454,
+      "final_frame": 3458,
+      "diff": 4,
+      "phonemes_frame": { "B": 2, "IY1": 2 }
+    },
+    {
+      "begin": 144.07999999999998,
+      "end": 144.30999999999997,
+      "lines": ["like"],
+      "phonemes": ["L", "AY1", "K"],
+      "init_frame": 3458,
+      "final_frame": 3464,
+      "diff": 6,
+      "phonemes_frame": { "L": 2, "AY1": 2, "K": 2 }
+    },
+    {
+      "begin": 144.309999,
+      "end": 144.549999,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 3464,
+      "final_frame": 3470,
+      "diff": 6,
+      "phonemes_frame": { "AE1": 2, "N": 2, "T": 1, "S": 1 }
+    },
+    {
+      "begin": 145.1,
+      "end": 145.48,
+      "lines": ["don't"],
+      "phonemes": ["D", "OW1", "N", "T"],
+      "init_frame": 3483,
+      "final_frame": 3492,
+      "diff": 9,
+      "phonemes_frame": { "D": 3, "OW1": 2, "N": 2, "T": 2 }
+    },
+    {
+      "begin": 145.48,
+      "end": 145.81,
+      "lines": ["quit"],
+      "phonemes": ["K", "W", "IH1", "T"],
+      "init_frame": 3492,
+      "final_frame": 3500,
+      "diff": 8,
+      "phonemes_frame": { "K": 2, "W": 2, "IH1": 2, "T": 2 }
+    },
+    {
+      "begin": 146.53,
+      "end": 147.13,
+      "lines": ["winners"],
+      "phonemes": ["W", "IH1", "N", "ER0", "Z"],
+      "init_frame": 3517,
+      "final_frame": 3532,
+      "diff": 15,
+      "phonemes_frame": { "W": 3, "IH1": 3, "N": 3, "ER0": 3, "Z": 3 }
+    },
+    {
+      "begin": 147.45,
+      "end": 147.54999999999998,
+      "lines": ["are"],
+      "phonemes": ["AA1", "R"],
+      "init_frame": 3539,
+      "final_frame": 3542,
+      "diff": 3,
+      "phonemes_frame": { "AA1": 2, "R": 1 }
+    },
+    {
+      "begin": 147.55,
+      "end": 147.84,
+      "lines": ["not"],
+      "phonemes": ["N", "AA1", "T"],
+      "init_frame": 3542,
+      "final_frame": 3549,
+      "diff": 7,
+      "phonemes_frame": { "N": 3, "AA1": 2, "T": 2 }
+    },
+    {
+      "begin": 147.86,
+      "end": 148.42000000000002,
+      "lines": ["quitters"],
+      "phonemes": ["K", "W", "IH1", "T", "ER0", "Z"],
+      "init_frame": 3549,
+      "final_frame": 3563,
+      "diff": 14,
+      "phonemes_frame": { "K": 3, "W": 3, "IH1": 2, "T": 2, "ER0": 2, "Z": 2 }
+    },
+    {
+      "begin": 150.04,
+      "end": 150.45,
+      "lines": ["ants"],
+      "phonemes": ["AE1", "N", "T", "S"],
+      "init_frame": 3601,
+      "final_frame": 3611,
+      "diff": 10,
+      "phonemes_frame": { "AE1": 3, "N": 3, "T": 2, "S": 2 }
+    },
+    {
+      "begin": 150.54,
+      "end": 150.98999999999998,
+      "lines": ["always"],
+      "phonemes": ["AO1", "L", "W", "EY2", "Z"],
+      "init_frame": 3613,
+      "final_frame": 3624,
+      "diff": 11,
+      "phonemes_frame": { "AO1": 3, "L": 2, "W": 2, "EY2": 2, "Z": 2 }
+    },
+    {
+      "begin": 150.99,
+      "end": 151.14000000000001,
+      "lines": ["do"],
+      "phonemes": ["D", "UW1"],
+      "init_frame": 3624,
+      "final_frame": 3628,
+      "diff": 4,
+      "phonemes_frame": { "D": 2, "UW1": 2 }
+    },
+    {
+      "begin": 151.14,
+      "end": 151.29999999999998,
+      "lines": ["their"],
+      "phonemes": ["DH", "EH1", "R"],
+      "init_frame": 3628,
+      "final_frame": 3632,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "EH1": 1, "R": 1 }
+    },
+    {
+      "begin": 151.3,
+      "end": 151.75,
+      "lines": ["best"],
+      "phonemes": ["B", "EH1", "S", "T"],
+      "init_frame": 3632,
+      "final_frame": 3642,
+      "diff": 10,
+      "phonemes_frame": { "B": 3, "EH1": 3, "S": 2, "T": 2 }
+    },
+    {
+      "begin": 151.98,
+      "end": 152.45999999999998,
+      "lines": ["meaning"],
+      "phonemes": ["M", "IY1", "N", "IH0", "NG"],
+      "init_frame": 3648,
+      "final_frame": 3660,
+      "diff": 12,
+      "phonemes_frame": { "M": 3, "IY1": 3, "N": 2, "IH0": 2, "NG": 2 }
+    },
+    {
+      "begin": 152.82,
+      "end": 153.13,
+      "lines": ["give"],
+      "phonemes": ["G", "IH1", "V"],
+      "init_frame": 3668,
+      "final_frame": 3676,
+      "diff": 8,
+      "phonemes_frame": { "G": 3, "IH1": 3, "V": 2 }
+    },
+    {
+      "begin": 153.13,
+      "end": 153.38,
+      "lines": ["your"],
+      "phonemes": ["Y", "AO1", "R"],
+      "init_frame": 3676,
+      "final_frame": 3682,
+      "diff": 6,
+      "phonemes_frame": { "Y": 2, "AO1": 2, "R": 2 }
+    },
+    {
+      "begin": 153.38,
+      "end": 153.82,
+      "lines": ["best"],
+      "phonemes": ["B", "EH1", "S", "T"],
+      "init_frame": 3682,
+      "final_frame": 3692,
+      "diff": 10,
+      "phonemes_frame": { "B": 3, "EH1": 3, "S": 2, "T": 2 }
+    },
+    {
+      "begin": 153.87,
+      "end": 154.09,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 3693,
+      "final_frame": 3699,
+      "diff": 6,
+      "phonemes_frame": { "IH0": 3, "N": 3 }
+    },
+    {
+      "begin": 154.12,
+      "end": 154.71,
+      "lines": ["everything"],
+      "phonemes": ["EH1", "V", "R", "IY0", "TH", "IH2", "NG"],
+      "init_frame": 3699,
+      "final_frame": 3714,
+      "diff": 15,
+      "phonemes_frame": {
+        "EH1": 3,
+        "V": 2,
+        "R": 2,
+        "IY0": 2,
+        "TH": 2,
+        "IH2": 2,
+        "NG": 2
+      }
+    },
+    {
+      "begin": 154.74,
+      "end": 155.0,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 3714,
+      "final_frame": 3720,
+      "diff": 6,
+      "phonemes_frame": { "Y": 3, "UW1": 3 }
+    },
+    {
+      "begin": 155.0,
+      "end": 155.2,
+      "lines": ["do"],
+      "phonemes": ["D", "UW1"],
+      "init_frame": 3720,
+      "final_frame": 3725,
+      "diff": 5,
+      "phonemes_frame": { "D": 3, "UW1": 2 }
+    },
+    {
+      "begin": 155.2,
+      "end": 155.51999999999998,
+      "lines": ["right"],
+      "phonemes": ["R", "AY1", "T"],
+      "init_frame": 3725,
+      "final_frame": 3733,
+      "diff": 8,
+      "phonemes_frame": { "R": 3, "AY1": 3, "T": 2 }
+    },
+    {
+      "begin": 155.52,
+      "end": 155.8,
+      "lines": ["now"],
+      "phonemes": ["N", "AW1"],
+      "init_frame": 3733,
+      "final_frame": 3740,
+      "diff": 7,
+      "phonemes_frame": { "N": 4, "AW1": 3 }
+    },
+    {
+      "begin": 156.46,
+      "end": 156.56,
+      "lines": ["it"],
+      "phonemes": ["IH1", "T"],
+      "init_frame": 3756,
+      "final_frame": 3758,
+      "diff": 2,
+      "phonemes_frame": { "IH1": 1, "T": 1 }
+    },
+    {
+      "begin": 156.559999,
+      "end": 156.719999,
+      "lines": ["will"],
+      "phonemes": ["W", "IH1", "L"],
+      "init_frame": 3758,
+      "final_frame": 3762,
+      "diff": 4,
+      "phonemes_frame": { "W": 2, "IH1": 1, "L": 1 }
+    },
+    {
+      "begin": 156.78,
+      "end": 157.25,
+      "lines": ["always"],
+      "phonemes": ["AO1", "L", "W", "EY2", "Z"],
+      "init_frame": 3763,
+      "final_frame": 3774,
+      "diff": 11,
+      "phonemes_frame": { "AO1": 3, "L": 2, "W": 2, "EY2": 2, "Z": 2 }
+    },
+    {
+      "begin": 157.25,
+      "end": 157.49,
+      "lines": ["lead"],
+      "phonemes": ["L", "EH1", "D"],
+      "init_frame": 3774,
+      "final_frame": 3780,
+      "diff": 6,
+      "phonemes_frame": { "L": 2, "EH1": 2, "D": 2 }
+    },
+    {
+      "begin": 157.49,
+      "end": 157.66,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 3780,
+      "final_frame": 3784,
+      "diff": 4,
+      "phonemes_frame": { "Y": 2, "UW1": 2 }
+    },
+    {
+      "begin": 157.98,
+      "end": 158.10999999999999,
+      "lines": ["to"],
+      "phonemes": ["T", "UW1"],
+      "init_frame": 3792,
+      "final_frame": 3795,
+      "diff": 3,
+      "phonemes_frame": { "T": 2, "UW1": 1 }
+    },
+    {
+      "begin": 158.11,
+      "end": 158.22000000000003,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 3795,
+      "final_frame": 3798,
+      "diff": 3,
+      "phonemes_frame": { "DH": 2, "AH0": 1 }
+    },
+    {
+      "begin": 158.219999,
+      "end": 158.639999,
+      "lines": ["greater"],
+      "phonemes": ["G", "R", "EY1", "T", "ER0"],
+      "init_frame": 3798,
+      "final_frame": 3808,
+      "diff": 10,
+      "phonemes_frame": { "G": 2, "R": 2, "EY1": 2, "T": 2, "ER0": 2 }
+    },
+    {
+      "begin": 158.639999,
+      "end": 159.08999899999998,
+      "lines": ["things"],
+      "phonemes": ["TH", "IH1", "NG", "Z"],
+      "init_frame": 3808,
+      "final_frame": 3819,
+      "diff": 11,
+      "phonemes_frame": { "TH": 3, "IH1": 3, "NG": 3, "Z": 2 }
+    },
+    {
+      "begin": 159.429999,
+      "end": 159.619999,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 3827,
+      "final_frame": 3831,
+      "diff": 4,
+      "phonemes_frame": { "AH0": 2, "N": 1, "D": 1 }
+    },
+    {
+      "begin": 159.62,
+      "end": 159.69,
+      "lines": ["the"],
+      "phonemes": ["DH", "AH0"],
+      "init_frame": 3831,
+      "final_frame": 3833,
+      "diff": 2,
+      "phonemes_frame": { "DH": 1, "AH0": 1 }
+    },
+    {
+      "begin": 159.69,
+      "end": 159.98,
+      "lines": ["next"],
+      "phonemes": ["N", "EH1", "K", "S", "T"],
+      "init_frame": 3833,
+      "final_frame": 3840,
+      "diff": 7,
+      "phonemes_frame": { "N": 2, "EH1": 2, "K": 1, "S": 1, "T": 1 }
+    },
+    {
+      "begin": 159.98,
+      "end": 160.34,
+      "lines": ["level"],
+      "phonemes": ["L", "EH1", "V", "AH0", "L"],
+      "init_frame": 3840,
+      "final_frame": 3849,
+      "diff": 9,
+      "phonemes_frame": { "L": 1, "EH1": 2, "V": 2, "AH0": 2 }
+    },
+    {
+      "begin": 160.34,
+      "end": 160.44,
+      "lines": ["in"],
+      "phonemes": ["IH0", "N"],
+      "init_frame": 3849,
+      "final_frame": 3851,
+      "diff": 2,
+      "phonemes_frame": { "IH0": 1, "N": 1 }
+    },
+    {
+      "begin": 160.440001,
+      "end": 160.590001,
+      "lines": ["your"],
+      "phonemes": ["Y", "AO1", "R"],
+      "init_frame": 3851,
+      "final_frame": 3855,
+      "diff": 4,
+      "phonemes_frame": { "Y": 2, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 160.59,
+      "end": 160.87,
+      "lines": ["life"],
+      "phonemes": ["L", "AY1", "F"],
+      "init_frame": 3855,
+      "final_frame": 3861,
+      "diff": 6,
+      "phonemes_frame": { "L": 2, "AY1": 2, "F": 2 }
+    },
+    {
+      "begin": 162.539999,
+      "end": 162.789999,
+      "lines": ["thanks"],
+      "phonemes": ["TH", "AE1", "NG", "K", "S"],
+      "init_frame": 3901,
+      "final_frame": 3907,
+      "diff": 6,
+      "phonemes_frame": { "TH": 2, "AE1": 1, "NG": 1, "K": 1, "S": 1 }
+    },
+    {
+      "begin": 162.789999,
+      "end": 162.909999,
+      "lines": ["for"],
+      "phonemes": ["F", "AO1", "R"],
+      "init_frame": 3907,
+      "final_frame": 3910,
+      "diff": 3,
+      "phonemes_frame": { "F": 1, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 162.91,
+      "end": 163.22,
+      "lines": ["watching"],
+      "phonemes": ["W", "AA1", "CH", "IH0", "NG"],
+      "init_frame": 3910,
+      "final_frame": 3918,
+      "diff": 8,
+      "phonemes_frame": { "W": 2, "AA1": 2, "CH": 2, "IH0": 1, "NG": 1 }
+    },
+    {
+      "begin": 163.219999,
+      "end": 163.389999,
+      "lines": ["this"],
+      "phonemes": ["DH", "IH1", "S"],
+      "init_frame": 3918,
+      "final_frame": 3922,
+      "diff": 4,
+      "phonemes_frame": { "DH": 2, "IH1": 1, "S": 1 }
+    },
+    {
+      "begin": 163.389999,
+      "end": 163.64999899999998,
+      "lines": ["video"],
+      "phonemes": ["V", "IH1", "D", "IY0", "OW0"],
+      "init_frame": 3922,
+      "final_frame": 3928,
+      "diff": 6,
+      "phonemes_frame": { "V": 2, "IH1": 1, "D": 1, "IY0": 1, "OW0": 1 }
+    },
+    {
+      "begin": 164.21,
+      "end": 164.65,
+      "lines": ["share"],
+      "phonemes": ["SH", "EH1", "R"],
+      "init_frame": 3942,
+      "final_frame": 3952,
+      "diff": 10,
+      "phonemes_frame": { "SH": 4, "EH1": 3, "R": 3 }
+    },
+    {
+      "begin": 164.75,
+      "end": 164.96,
+      "lines": ["and"],
+      "phonemes": ["AH0", "N", "D"],
+      "init_frame": 3954,
+      "final_frame": 3960,
+      "diff": 6,
+      "phonemes_frame": { "AH0": 2, "N": 2, "D": 2 }
+    },
+    {
+      "begin": 164.96,
+      "end": 165.55,
+      "lines": ["subscribe"],
+      "phonemes": ["S", "AH0", "B", "S", "K", "R", "AY1", "B"],
+      "init_frame": 3960,
+      "final_frame": 3974,
+      "diff": 14,
+      "phonemes_frame": { "S": 2, "AH0": 2, "B": 1, "K": 2, "R": 2, "AY1": 1 }
+    },
+    {
+      "begin": 165.72,
+      "end": 165.87,
+      "lines": ["for"],
+      "phonemes": ["F", "AO1", "R"],
+      "init_frame": 3978,
+      "final_frame": 3981,
+      "diff": 3,
+      "phonemes_frame": { "F": 1, "AO1": 1, "R": 1 }
+    },
+    {
+      "begin": 165.87,
+      "end": 166.13,
+      "lines": ["more"],
+      "phonemes": ["M", "AO1", "R"],
+      "init_frame": 3981,
+      "final_frame": 3988,
+      "diff": 7,
+      "phonemes_frame": { "M": 3, "AO1": 2, "R": 2 }
+    },
+    {
+      "begin": 166.13,
+      "end": 166.76,
+      "lines": ["amazing"],
+      "phonemes": ["AH0", "M", "EY1", "Z", "IH0", "NG"],
+      "init_frame": 3988,
+      "final_frame": 4003,
+      "diff": 15,
+      "phonemes_frame": {
+        "AH0": 3,
+        "M": 3,
+        "EY1": 3,
+        "Z": 2,
+        "IH0": 2,
+        "NG": 2
+      }
+    },
+    {
+      "begin": 166.78,
+      "end": 167.5,
+      "lines": ["inspiration"],
+      "phonemes": ["IH2", "N", "S", "P", "ER0", "EY1", "SH", "AH0", "N"],
+      "init_frame": 4003,
+      "final_frame": 4020,
+      "diff": 17,
+      "phonemes_frame": {
+        "IH2": 2,
+        "N": 1,
+        "S": 2,
+        "P": 2,
+        "ER0": 2,
+        "EY1": 2,
+        "SH": 2,
+        "AH0": 2
+      }
+    },
+    {
+      "begin": 177.53,
+      "end": 177.66,
+      "lines": ["you"],
+      "phonemes": ["Y", "UW1"],
+      "init_frame": 4261,
+      "final_frame": 4264,
+      "diff": 3,
+      "phonemes_frame": { "Y": 2, "UW1": 1 }
+    }
+  ],
+  "FRAME_PER_SECOUND": 24,
+  "AUDO_END_TIME": 178,
+  "TOTAL_VIDEO_FRAMES": 4273
+}

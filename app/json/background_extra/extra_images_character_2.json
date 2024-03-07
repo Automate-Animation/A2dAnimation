@@ -1,0 +1,14 @@
+{
+  "office": {
+    "extra_after": [
+      {
+        "image": "./images/extra/character_2/table.png",
+        "size": [1920, 315],
+        "location": [0, 780],
+        "name": "table"
+      }
+    ],
+    "extra_before": []
+  },
+  "explaination": { "extra_after": [], "extra_before": [] }
+}

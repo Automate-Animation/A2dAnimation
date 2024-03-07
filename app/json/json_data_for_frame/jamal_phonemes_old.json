@@ -1,0 +1,675 @@
+{
+    "fragments": [
+        {
+            "begin": "0.000",
+            "children": [],
+            "end": "1.200",
+            "id": "f000001",
+            "language": "eng",
+            "lines": [
+                "Hello"
+            ],
+            "phonemes": [
+                "HH",
+                "AH0",
+                "L",
+                "OW1"
+            ],
+            "init_frame": 0,
+            "final_frame": 29,
+            "diff": 8
+        },
+        {
+            "begin": "1.200",
+            "children": [],
+            "end": "1.600",
+            "id": "f000002",
+            "language": "eng",
+            "lines": [
+                "this"
+            ],
+            "phonemes": [
+                "DH",
+                "IH1",
+                "S"
+            ],
+            "init_frame": 29,
+            "final_frame": 39,
+            "diff": 4
+        },
+        {
+            "begin": "1.600",
+            "children": [],
+            "end": "2.120",
+            "id": "f000003",
+            "language": "eng",
+            "lines": [
+                "is"
+            ],
+            "phonemes": [
+                "IH1",
+                "Z"
+            ],
+            "init_frame": 39,
+            "final_frame": 51,
+            "diff": 6
+        },
+        {
+            "begin": "2.120",
+            "children": [],
+            "end": "2.520",
+            "id": "f000004",
+            "language": "eng",
+            "lines": [
+                "Test"
+            ],
+            "phonemes": [
+                "T",
+                "EH1",
+                "S",
+                "T"
+            ],
+            "init_frame": 51,
+            "final_frame": 61,
+            "diff": 3
+        },
+        {
+            "begin": "2.520",
+            "children": [],
+            "end": "3.040",
+            "id": "f000005",
+            "language": "eng",
+            "lines": [
+                "number"
+            ],
+            "phonemes": [
+                "N",
+                "AH1",
+                "M",
+                "B",
+                "ER0"
+            ],
+            "init_frame": 61,
+            "final_frame": 73,
+            "diff": 3
+        },
+        {
+            "begin": "3.040",
+            "children": [],
+            "end": "3.200",
+            "id": "f000006",
+            "language": "eng",
+            "lines": [
+                "1"
+            ],
+            "phonemes": [
+                "W",
+                "AH1",
+                "N"
+            ],
+            "init_frame": 73,
+            "final_frame": 77,
+            "diff": 2
+        },
+        {
+            "begin": "3.200",
+            "children": [],
+            "end": "3.680",
+            "id": "f000007",
+            "language": "eng",
+            "lines": [
+                "My"
+            ],
+            "phonemes": [
+                "M",
+                "AY1"
+            ],
+            "init_frame": 77,
+            "final_frame": 89,
+            "diff": 6
+        },
+        {
+            "begin": "3.680",
+            "children": [],
+            "end": "3.680",
+            "id": "f000008",
+            "language": "eng",
+            "lines": [
+                "name"
+            ],
+            "phonemes": [
+                "N",
+                "EY1",
+                "M"
+            ],
+            "init_frame": 89,
+            "final_frame": 89,
+            "diff": 0
+        },
+        {
+            "begin": "3.680",
+            "children": [],
+            "end": "4.040",
+            "id": "f000009",
+            "language": "eng",
+            "lines": [
+                "is"
+            ],
+            "phonemes": [
+                "IH1",
+                "Z"
+            ],
+            "init_frame": 89,
+            "final_frame": 97,
+            "diff": 4
+        },
+        {
+            "begin": "4.040",
+            "children": [],
+            "end": "4.760",
+            "id": "f000010",
+            "language": "eng",
+            "lines": [
+                "mohammed"
+            ],
+            "phonemes": [
+                "M",
+                "OW0",
+                "HH",
+                "AE1",
+                "M",
+                "IH0",
+                "D"
+            ],
+            "init_frame": 97,
+            "final_frame": 115,
+            "diff": 3
+        },
+        {
+            "begin": "4.760",
+            "children": [],
+            "end": "5.160",
+            "id": "f000011",
+            "language": "eng",
+            "lines": [
+                "jalal"
+            ],
+            "phonemes": [
+                "Y",
+                "AA1",
+                "L",
+                "AA0"
+            ],
+            "init_frame": 115,
+            "final_frame": 124,
+            "diff": 3
+        },
+        {
+            "begin": "5.160",
+            "children": [],
+            "end": "6.120",
+            "id": "f000012",
+            "language": "eng",
+            "lines": [
+                "Ok"
+            ],
+            "phonemes": [
+                "OW1",
+                "K",
+                "EY1"
+            ],
+            "init_frame": 124,
+            "final_frame": 147,
+            "diff": 8
+        },
+        {
+            "begin": "6.120",
+            "children": [],
+            "end": "6.560",
+            "id": "f000013",
+            "language": "eng",
+            "lines": [
+                "Get"
+            ],
+            "phonemes": [
+                "G",
+                "EH1",
+                "T"
+            ],
+            "init_frame": 147,
+            "final_frame": 158,
+            "diff": 4
+        },
+        {
+            "begin": "6.560",
+            "children": [],
+            "end": "6.640",
+            "id": "f000014",
+            "language": "eng",
+            "lines": [
+                "it"
+            ],
+            "phonemes": [
+                "IH1",
+                "T"
+            ],
+            "init_frame": 158,
+            "final_frame": 160,
+            "diff": 1
+        },
+        {
+            "begin": "6.640",
+            "children": [],
+            "end": "6.760",
+            "id": "f000015",
+            "language": "eng",
+            "lines": [
+                "orhan"
+            ],
+            "phonemes": [
+                "AO1",
+                "R",
+                "AH0",
+                "N"
+            ],
+            "init_frame": 160,
+            "final_frame": 163,
+            "diff": 1
+        },
+        {
+            "begin": "6.760",
+            "children": [],
+            "end": "6.760",
+            "id": "f000016",
+            "language": "eng",
+            "lines": [
+                "urdu"
+            ],
+            "phonemes": [
+                "ER0",
+                "D",
+                "UW1"
+            ],
+            "init_frame": 163,
+            "final_frame": 163,
+            "diff": 0
+        },
+        {
+            "begin": "6.760",
+            "children": [],
+            "end": "7.040",
+            "id": "f000017",
+            "language": "eng",
+            "lines": [
+                "mein"
+            ],
+            "phonemes": [
+                "M",
+                "IY1",
+                "N"
+            ],
+            "init_frame": 163,
+            "final_frame": 169,
+            "diff": 2
+        },
+        {
+            "begin": "7.040",
+            "children": [],
+            "end": "7.600",
+            "id": "f000018",
+            "language": "eng",
+            "lines": [
+                "ma"
+            ],
+            "phonemes": [
+                "M",
+                "AA1"
+            ],
+            "init_frame": 169,
+            "final_frame": 183,
+            "diff": 7
+        },
+        {
+            "begin": "7.600",
+            "children": [],
+            "end": "8.160",
+            "id": "f000019",
+            "language": "eng",
+            "lines": [
+                "ya"
+            ],
+            "phonemes": [
+                "Y",
+                "AA1"
+            ],
+            "init_frame": 183,
+            "final_frame": 196,
+            "diff": 7
+        },
+        {
+            "begin": "8.160",
+            "children": [],
+            "end": "9.280",
+            "id": "f000020",
+            "language": "eng",
+            "lines": [
+                "kahana"
+            ],
+            "phonemes": [
+                "K",
+                "AH0",
+                "HH",
+                "AA1",
+                "N",
+                "AH0"
+            ],
+            "init_frame": 196,
+            "final_frame": 223,
+            "diff": 5
+        },
+        {
+            "begin": "9.280",
+            "children": [],
+            "end": "10.000",
+            "id": "f000021",
+            "language": "eng",
+            "lines": [
+                "chah"
+            ],
+            "phonemes": [
+                "CH",
+                "AA1"
+            ],
+            "init_frame": 223,
+            "final_frame": 240,
+            "diff": 9
+        },
+        {
+            "begin": "10.000",
+            "children": [],
+            "end": "10.560",
+            "id": "f000022",
+            "language": "eng",
+            "lines": [
+                "raha"
+            ],
+            "phonemes": [
+                "R",
+                "AA1",
+                "HH",
+                "AH0"
+            ],
+            "init_frame": 240,
+            "final_frame": 254,
+            "diff": 4
+        },
+        {
+            "begin": "10.560",
+            "children": [],
+            "end": "11.440",
+            "id": "f000023",
+            "language": "eng",
+            "lines": [
+                "tha"
+            ],
+            "phonemes": [
+                "DH",
+                "EY1"
+            ],
+            "init_frame": 254,
+            "final_frame": 275,
+            "diff": 11
+        },
+        {
+            "begin": "11.440",
+            "children": [],
+            "end": "12.000",
+            "id": "f000024",
+            "language": "eng",
+            "lines": [
+                "Ke"
+            ],
+            "phonemes": [
+                "K",
+                "IY1"
+            ],
+            "init_frame": 275,
+            "final_frame": 288,
+            "diff": 7
+        },
+        {
+            "begin": "12.000",
+            "children": [],
+            "end": "13.120",
+            "id": "f000025",
+            "language": "eng",
+            "lines": [
+                "Mera"
+            ],
+            "phonemes": [
+                "M",
+                "EH1",
+                "R",
+                "AH0"
+            ],
+            "init_frame": 288,
+            "final_frame": 315,
+            "diff": 7
+        },
+        {
+            "begin": "13.120",
+            "children": [],
+            "end": "13.640",
+            "id": "f000026",
+            "language": "eng",
+            "lines": [
+                "naam"
+            ],
+            "phonemes": [
+                "N",
+                "AA1",
+                "M"
+            ],
+            "init_frame": 315,
+            "final_frame": 328,
+            "diff": 5
+        },
+        {
+            "begin": "13.640",
+            "children": [],
+            "end": "14.320",
+            "id": "f000027",
+            "language": "eng",
+            "lines": [
+                "jo"
+            ],
+            "phonemes": [
+                "JH",
+                "OW1"
+            ],
+            "init_frame": 328,
+            "final_frame": 344,
+            "diff": 8
+        },
+        {
+            "begin": "14.320",
+            "children": [],
+            "end": "14.400",
+            "id": "f000028",
+            "language": "eng",
+            "lines": [
+                "ha"
+            ],
+            "phonemes": [
+                "HH",
+                "AA1"
+            ],
+            "init_frame": 344,
+            "final_frame": 346,
+            "diff": 1
+        },
+        {
+            "begin": "14.400",
+            "children": [],
+            "end": "14.440",
+            "id": "f000029",
+            "language": "eng",
+            "lines": [
+                "vo"
+            ],
+            "phonemes": [
+                "V",
+                "OW1"
+            ],
+            "init_frame": 346,
+            "final_frame": 347,
+            "diff": 1
+        },
+        {
+            "begin": "14.440",
+            "children": [],
+            "end": "14.480",
+            "id": "f000030",
+            "language": "eng",
+            "lines": [
+                "jalal"
+            ],
+            "phonemes": [
+                "Y",
+                "AA1",
+                "L",
+                "AA0"
+            ],
+            "init_frame": 347,
+            "final_frame": 348,
+            "diff": 1
+        },
+        {
+            "begin": "14.480",
+            "children": [],
+            "end": "14.840",
+            "id": "f000031",
+            "language": "eng",
+            "lines": [
+                "hai"
+            ],
+            "phonemes": [
+                "HH",
+                "AY1"
+            ],
+            "init_frame": 348,
+            "final_frame": 357,
+            "diff": 5
+        },
+        {
+            "begin": "14.840",
+            "children": [],
+            "end": "15.080",
+            "id": "f000032",
+            "language": "eng",
+            "lines": [
+                "Ok"
+            ],
+            "phonemes": [
+                "OW1",
+                "K",
+                "EY1"
+            ],
+            "init_frame": 357,
+            "final_frame": 362,
+            "diff": 2
+        },
+        {
+            "begin": "15.080",
+            "children": [],
+            "end": "15.360",
+            "id": "f000033",
+            "language": "eng",
+            "lines": [
+                "samaj"
+            ],
+            "phonemes": [
+                "S",
+                "AE1",
+                "M",
+                "EY0",
+                "JH"
+            ],
+            "init_frame": 362,
+            "final_frame": 369,
+            "diff": 2
+        },
+        {
+            "begin": "15.360",
+            "children": [],
+            "end": "15.880",
+            "id": "f000034",
+            "language": "eng",
+            "lines": [
+                "agaie"
+            ],
+            "phonemes": [
+                "EY1",
+                "G",
+                "EY2"
+            ],
+            "init_frame": 369,
+            "final_frame": 382,
+            "diff": 5
+        },
+        {
+            "begin": "15.880",
+            "children": [],
+            "end": "16.280",
+            "id": "f000035",
+            "language": "eng",
+            "lines": [
+                "ka"
+            ],
+            "phonemes": [
+                "K",
+                "AA1"
+            ],
+            "init_frame": 382,
+            "final_frame": 391,
+            "diff": 5
+        },
+        {
+            "begin": "16.280",
+            "children": [],
+            "end": "16.920",
+            "id": "f000036",
+            "language": "eng",
+            "lines": [
+                "nai"
+            ],
+            "phonemes": [
+                "N",
+                "AA1",
+                "IY0"
+            ],
+            "init_frame": 391,
+            "final_frame": 407,
+            "diff": 6
+        },
+        {
+            "begin": "16.920",
+            "children": [],
+            "end": "17.400",
+            "id": "f000037",
+            "language": "eng",
+            "lines": [
+                "aie"
+            ],
+            "phonemes": [
+                "AY1"
+            ],
+            "init_frame": 407,
+            "final_frame": 418,
+            "diff": 11
+        }
+    ],
+    "FRAME_PER_SECOUND": 24,
+    "AUDO_END_TIME": 23,
+    "TOTAL_VIDEO_FRAMES": 552
+}

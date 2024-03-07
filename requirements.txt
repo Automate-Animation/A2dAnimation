@@ -1,0 +1,8 @@
+
+beautifulsoup4==4.11.1
+numpy==1.23.0
+opencv-python==4.6.0.66
+pandas==1.4.3
+Pillow==9.2.0
+regex==2022.6.2
+requests==2.28.1

@@ -1,0 +1,18 @@
+{
+  "angry": { "eye_size": [191, 95], "eye_location": [35, 185] },
+  "angry_2": { "eye_size": [191, 100], "eye_location": [35, 165] },
+  "bore": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "bore_2": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "content": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "content_2": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "glare": { "eye_size": [191, 80], "eye_location": [35, 195] },
+  "glare_2": { "eye_size": [191, 80], "eye_location": [35, 195] },
+  "happy": { "eye_size": [191, 80], "eye_location": [35, 195] },
+  "happy_2": { "eye_size": [191, 80], "eye_location": [35, 195] },
+  "sad": { "eye_size": [191, 80], "eye_location": [35, 195] },
+  "sad_2": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "sarcasm": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "sarcasm_2": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "worried": { "eye_size": [191, 100], "eye_location": [35, 175] },
+  "worried_2": { "eye_size": [191, 100], "eye_location": [35, 175] }
+}
