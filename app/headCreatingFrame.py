@@ -6,19 +6,23 @@ from os.path import isfile, join
 import numpy as np
 from PIL import Image
 
-mypath = './json/character_cordinates/'
+mypath = "./json/character_cordinates/"
 files = [f for f in os.listdir(mypath)]
 character_cordination_data = {}
 for each_file in files:
-    face_number = each_file.split('_')[1]
-    mouth_or_eyes = each_file.split('_')[2]
+    face_number = each_file.split("_")[1]
+    mouth_or_eyes = each_file.split("_")[2]
     if face_number not in character_cordination_data:
         character_cordination_data[face_number] = {}
-        character_cordination_data[face_number][mouth_or_eyes] = json.load(open(mypath + each_file))
+        character_cordination_data[face_number][mouth_or_eyes] = json.load(
+            open(mypath + each_file)
+        )
     else:
-        character_cordination_data[face_number][mouth_or_eyes] = json.load(open(mypath + each_file))
-    
-    
+        character_cordination_data[face_number][mouth_or_eyes] = json.load(
+            open(mypath + each_file)
+        )
+
+
 # print(character_cordination_data)
 # eyes_cordinations = open('./json/character_cordinates/character_2_eyes_cordinations.json')
 # mouth_cordinations = open('./json/character_cordinates/character_2_mouth_cordinations.json')
@@ -28,37 +32,53 @@ for each_file in files:
 
 
 def adding_eyes_and_mouth(face_path, eye_path, mouth_path, frame_name):
-    character_number = face_path.split('/')[3].split('_')[-1]
+    character_number = face_path.split("/")[3].split("_")[-1]
     face = Image.open(face_path)
-    print("character_number ;",character_number)
+    print("character_number ;", character_number)
     eye = Image.open(eye_path)
 
     mouth = Image.open(mouth_path)
 
-    eye_phenome = eye_path.split('/')[-2]
+    eye_phenome = eye_path.split("/")[-2]
 
     print(eye_phenome)
 
-    mouth_phenome = mouth_path.split('/')[-1].split('.')[0]
+    mouth_phenome = mouth_path.split("/")[-1].split(".")[0]
 
-    print(character_cordination_data[character_number]['eyes'][eye_phenome]['eye_location'])
-    new_image = adding_image(face, eye, 
-                            location=character_cordination_data[character_number]['eyes'][eye_phenome]['eye_location'], 
-                            rotation=0, 
-                            mirror=False, 
-                            size_cordinates=character_cordination_data[character_number]['eyes'][eye_phenome]['eye_size'])
+    print(
+        character_cordination_data[character_number]["eyes"][eye_phenome][
+            "eye_location"
+        ]
+    )
+    new_image = adding_image(
+        face,
+        eye,
+        location=character_cordination_data[character_number]["eyes"][eye_phenome][
+            "eye_location"
+        ],
+        rotation=0,
+        mirror=False,
+        size_cordinates=character_cordination_data[character_number]["eyes"][
+            eye_phenome
+        ]["eye_size"],
+    )
 
-
-    new_image = adding_image(new_image, mouth, 
-                            location=character_cordination_data[character_number]['mouth'][mouth_phenome]['mouth_location'], 
-                            mirror=True,
-                            size_cordinates=character_cordination_data[character_number]['mouth'][mouth_phenome]['mouth_size'])
-    if face_path[-5]=='R':
+    new_image = adding_image(
+        new_image,
+        mouth,
+        location=character_cordination_data[character_number]["mouth"][mouth_phenome][
+            "mouth_location"
+        ],
+        mirror=True,
+        size_cordinates=character_cordination_data[character_number]["mouth"][
+            mouth_phenome
+        ]["mouth_size"],
+    )
+    if face_path[-5] == "R":
         new_image = mirror_image(new_image)
     # new_image.show()
     # new_image.save(f'./frames/headFrames/{frame_name}.png')
     return new_image
-
 
 
 if __name__ == "__main__":
@@ -70,4 +90,4 @@ if __name__ == "__main__":
 
     mouth = f"./images/mouth/character_{character}/happy/l_h.png"
 
-    new = adding_eyes_and_mouth(face, eye, mouth,"test")
+    new = adding_eyes_and_mouth(face, eye, mouth, "test")

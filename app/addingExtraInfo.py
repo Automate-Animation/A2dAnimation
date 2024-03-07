@@ -1,19 +1,45 @@
 import json
 import os
 
-path = './json/json_data_for_frame/kamal_phonemes.json'
+path = "./json/json_data_for_frame/kamal_phonemes.json"
 type_value_dic = {
-    "character":{"1":"1","2":"2","3":"3"},
-    "emotion":{"1":"happy", "2":"sad", "3":"angry", 
-               "4":"bore", "5":"content", "6":"glare", "7":'sarcasm', "8":"worried"},
-    "intensity":{"1":True, '2':False},
-    "head_direction":{"1":"L", "2":"M","3":"R"},
-    "eyes_direction":{"1":"L", "2":"M","3":"R"},
-    "screen_mode":{"1":"office","2":"explaination","3":"white","4":"plain"},
-    "body_action":{"1":"achieve", "2":"answer", "3":"explain", "4":"me",
-                   "5":"not_me", "6":"question", "7":'technical', "8":"why", "9":"you"},
-    "reaction":{"1":"happy", "2":"sad", "3":"angry", "4":"bore", "5":"content", "6":"glare", "7":'scard', "8":"worried"},
-    }
+    "character": {"1": "1", "2": "2", "3": "3"},
+    "emotion": {
+        "1": "happy",
+        "2": "sad",
+        "3": "angry",
+        "4": "bore",
+        "5": "content",
+        "6": "glare",
+        "7": "sarcasm",
+        "8": "worried",
+    },
+    "intensity": {"1": True, "2": False},
+    "head_direction": {"1": "L", "2": "M", "3": "R"},
+    "eyes_direction": {"1": "L", "2": "M", "3": "R"},
+    "screen_mode": {"1": "office", "2": "explaination", "3": "white", "4": "plain"},
+    "body_action": {
+        "1": "achieve",
+        "2": "answer",
+        "3": "explain",
+        "4": "me",
+        "5": "not_me",
+        "6": "question",
+        "7": "technical",
+        "8": "why",
+        "9": "you",
+    },
+    "reaction": {
+        "1": "happy",
+        "2": "sad",
+        "3": "angry",
+        "4": "bore",
+        "5": "content",
+        "6": "glare",
+        "7": "scard",
+        "8": "worried",
+    },
+}
 
 frame_data = open(path)
 
@@ -21,31 +47,30 @@ frames_json = json.load(frame_data)
 
 
 def clean_creen():
-    if(os.name == 'posix'):
-        os.system('clear')
+    if os.name == "posix":
+        os.system("clear")
     else:
-        os.system('cls')
+        os.system("cls")
+
 
 def addingValues(type_value):
     add_checker = input("what to add .. ? press 1 Otherwise press q :  ").strip()
-    if add_checker == '1':
-            
-        for each_fagment in frames_json['fragments']:
+    if add_checker == "1":
+
+        for each_fagment in frames_json["fragments"]:
             if type_value in each_fagment:
                 del each_fagment[type_value]
 
         text = ""
 
-        for each_fragment in frames_json['fragments']:
+        for each_fragment in frames_json["fragments"]:
             if text == "":
-                text = each_fragment['lines'][0]
+                text = each_fragment["lines"][0]
             else:
-                text = text + " " + each_fragment['lines'][0]
-        length_of_text = len(frames_json['fragments'])
+                text = text + " " + each_fragment["lines"][0]
+        length_of_text = len(frames_json["fragments"])
 
         counter = length_of_text
-
-
 
         while text != "":
             print(text)
@@ -53,7 +78,7 @@ def addingValues(type_value):
             length = len(user_input)
             user_input_list = user_input.split(" ")
             print(f"type of {type_value}: ?")
-            print('--'*20)
+            print("--" * 20)
             print(type_value_dic[type_value])
             value = input(f"Enter from above {type_value}: ")
 
@@ -61,39 +86,45 @@ def addingValues(type_value):
             if get_value == None:
                 print("Invalid input :", value)
                 print("added happy!!")
-                get_value = type_value_dic[type_value]['1']
+                get_value = type_value_dic[type_value]["1"]
                 print(f"added {get_value}!!")
 
             for each_word in user_input_list:
-                if frames_json['fragments'][length_of_text - counter ]['lines'][0] == each_word:
-                    if type_value not in frames_json['fragments'][length_of_text - counter ]:
-                        frames_json['fragments'][length_of_text - counter][type_value] = get_value
+                if (
+                    frames_json["fragments"][length_of_text - counter]["lines"][0]
+                    == each_word
+                ):
+                    if (
+                        type_value
+                        not in frames_json["fragments"][length_of_text - counter]
+                    ):
+                        frames_json["fragments"][length_of_text - counter][
+                            type_value
+                        ] = get_value
                         counter -= 1
-
 
             text = text[length:].strip()
 
+
 def addingReaction(type_value):
-    
-    for each_fagment in frames_json['fragments']:
-        if 'reaction_bool' in each_fagment:
+
+    for each_fagment in frames_json["fragments"]:
+        if "reaction_bool" in each_fagment:
             del each_fagment["reaction_bool"]
-            
-        if 'reaction' in each_fagment:
+
+        if "reaction" in each_fagment:
             del each_fagment["reaction"]
 
     text = ""
 
-    for each_fragment in frames_json['fragments']:
+    for each_fragment in frames_json["fragments"]:
         if text == "":
-            text = each_fragment['lines'][0]
+            text = each_fragment["lines"][0]
         else:
-            text = text + " " + each_fragment['lines'][0]
-    length_of_text = len(frames_json['fragments'])
+            text = text + " " + each_fragment["lines"][0]
+    length_of_text = len(frames_json["fragments"])
 
     counter = length_of_text
-
-
 
     while text != "":
         print(text)
@@ -101,43 +132,51 @@ def addingReaction(type_value):
         length = len(user_input)
         user_input_list = user_input.split(" ")
         print(f"type of {type_value}: ?")
-        print('--'*20)
-        # checker 
+        print("--" * 20)
+        # checker
         checker = input(f"Want to add reaction ? Press 1 otherwise press q :  ")
-        if checker == '1':
+        if checker == "1":
             print(type_value_dic[type_value])
             value = input(f"Enter from above {type_value}: ")
 
             get_value = type_value_dic[type_value].get(value)
             if get_value == None:
                 print("Invalid input :", value)
-                get_value = type_value_dic[type_value]['1']
+                get_value = type_value_dic[type_value]["1"]
                 print(f"added {get_value}!!")
-                
-                
-                
+
             print(type_value_dic["character"])
             value = input(f"Chooce your reaction character: ")
 
-            character = type_value_dic['character'].get(value)
+            character = type_value_dic["character"].get(value)
             if character == None:
                 print("Invalid input :", character)
-                character = type_value_dic[type_value]['1']
+                character = type_value_dic[type_value]["1"]
                 print(f"added {character}!!")
         else:
             get_value = ""
 
         for each_word in user_input_list:
-            if frames_json['fragments'][length_of_text - counter ]['lines'][0] == each_word:
-                if checker == '1':
-                    frames_json['fragments'][length_of_text - counter]['reaction_bool'] = True
-                    frames_json['fragments'][length_of_text - counter]['character'] = character
+            if (
+                frames_json["fragments"][length_of_text - counter]["lines"][0]
+                == each_word
+            ):
+                if checker == "1":
+                    frames_json["fragments"][length_of_text - counter][
+                        "reaction_bool"
+                    ] = True
+                    frames_json["fragments"][length_of_text - counter][
+                        "character"
+                    ] = character
                 else:
-                    frames_json['fragments'][length_of_text - counter]['reaction_bool'] = False
-                frames_json['fragments'][length_of_text - counter][type_value] = get_value
-                
-                counter -= 1
+                    frames_json["fragments"][length_of_text - counter][
+                        "reaction_bool"
+                    ] = False
+                frames_json["fragments"][length_of_text - counter][
+                    type_value
+                ] = get_value
 
+                counter -= 1
 
         text = text[length:].strip()
 
@@ -159,10 +198,10 @@ def addingReaction(type_value):
 
 #     if 'eyes_direction' in each_fagment:
 #         del each_fagment['eyes_direction']
-    
+
 #     if 'screen_mode' in each_fagment:
 #         del each_fagment['screen_mode']
-        
+
 #     if 'body_action' in each_fagment:
 #         del each_fagment['body_action']
 

@@ -1,4 +1,3 @@
-
 print("Main....!")
 
 
@@ -17,34 +16,71 @@ from backgroundCreatingFrame import adding_background
 from bodyCreatingFrame import adding_head_and_body
 from headCreatingFrame import adding_eyes_and_mouth
 
-data = pd.read_csv('new_LMR.csv')
-data_dict = {"face":[], "eye":[], "mouth":[],  "body":[], "frame_name":[],"background":[], "key":[], "rotation":[], "zoom":[]}
-frame_data = {"key_counter":{}, "frame_key":{}}
-mypath= './frames/backgroundFrames'
+data = pd.read_csv("new_LMR.csv")
+data_dict = {
+    "face": [],
+    "eye": [],
+    "mouth": [],
+    "body": [],
+    "frame_name": [],
+    "background": [],
+    "key": [],
+    "rotation": [],
+    "zoom": [],
+}
+frame_data = {"key_counter": {}, "frame_key": {}}
+mypath = "./frames/backgroundFrames"
 files = [f for f in os.listdir(mypath)]
 for each_file in files:
-    key_name =each_file.split('.')[0]
+    key_name = each_file.split(".")[0]
     if key_name:
-        frame_data['key_counter'][each_file.split('.')[0]] = 1
+        frame_data["key_counter"][each_file.split(".")[0]] = 1
 
-def imageCreater(face_path, eye_path, mouth_path,body_path, background_path ,frame_name, key, rotation, zoom):
 
-    if key not in frame_data['key_counter']:
-        frame_data['key_counter'][key] = 1
-        head = adding_eyes_and_mouth(face_path=face_path, eye_path=eye_path, mouth_path=mouth_path, frame_name=frame_name)
-        body = adding_head_and_body(head,body_path,  frame_name=frame_name,rotation= rotation)
+def imageCreater(
+    face_path,
+    eye_path,
+    mouth_path,
+    body_path,
+    background_path,
+    frame_name,
+    key,
+    rotation,
+    zoom,
+):
+
+    if key not in frame_data["key_counter"]:
+        frame_data["key_counter"][key] = 1
+        head = adding_eyes_and_mouth(
+            face_path=face_path,
+            eye_path=eye_path,
+            mouth_path=mouth_path,
+            frame_name=frame_name,
+        )
+        body = adding_head_and_body(
+            head, body_path, frame_name=frame_name, rotation=rotation
+        )
         background = background_path
-        adding_background(body_path=body, background_path=background,  frame_name=key, zoom=zoom)
+        adding_background(
+            body_path=body, background_path=background, frame_name=key, zoom=zoom
+        )
     else:
-        frame_data['key_counter'][key] = frame_data['key_counter'][key] + 1
-    frame_data['frame_key'][frame_name] = key
-    print(frame_name ,  " -- ", key)
-    
-    
-    
+        frame_data["key_counter"][key] = frame_data["key_counter"][key] + 1
+    frame_data["frame_key"][frame_name] = key
+    print(frame_name, " -- ", key)
 
-counter =0 
-for face, eye, mouth,  body, background, key, rotation, zoom in zip(data.head_path, data.eye_path, data.mouth_image_path,  data.body_path, data.background_path, data.key, data.head_rotation,data.zoom):
+
+counter = 0
+for face, eye, mouth, body, background, key, rotation, zoom in zip(
+    data.head_path,
+    data.eye_path,
+    data.mouth_image_path,
+    data.body_path,
+    data.background_path,
+    data.key,
+    data.head_rotation,
+    data.zoom,
+):
     data_dict["face"].append(face)
     data_dict["eye"].append(eye)
     data_dict["mouth"].append(mouth)
@@ -55,19 +91,38 @@ for face, eye, mouth,  body, background, key, rotation, zoom in zip(data.head_pa
     data_dict["rotation"].append(rotation)
     data_dict["zoom"].append(zoom)
     counter += 1
- 
- 
+
+
 def multi_run_wrapper(*args):
     time.sleep(1)
     print(*args)
 
+
 if __name__ == "__main__":
-    # pool = multiprocessing.Pool(1) 
+    # pool = multiprocessing.Pool(1)
     frame = 2102
-    print(data_dict["face"][frame], data_dict["eye"][frame], data_dict["mouth"][frame],data_dict["body"][frame], data_dict["background"][frame] ,data_dict["frame_name"][frame],data_dict["key"][frame],
-                 data_dict["rotation"][frame],data_dict["zoom"][frame])
-    imageCreater(data_dict["face"][frame], data_dict["eye"][frame], data_dict["mouth"][frame],data_dict["body"][frame], data_dict["background"][frame] ,data_dict["frame_name"][frame],data_dict["key"][frame],
-                 data_dict["rotation"][frame],data_dict["zoom"][frame])
+    print(
+        data_dict["face"][frame],
+        data_dict["eye"][frame],
+        data_dict["mouth"][frame],
+        data_dict["body"][frame],
+        data_dict["background"][frame],
+        data_dict["frame_name"][frame],
+        data_dict["key"][frame],
+        data_dict["rotation"][frame],
+        data_dict["zoom"][frame],
+    )
+    imageCreater(
+        data_dict["face"][frame],
+        data_dict["eye"][frame],
+        data_dict["mouth"][frame],
+        data_dict["body"][frame],
+        data_dict["background"][frame],
+        data_dict["frame_name"][frame],
+        data_dict["key"][frame],
+        data_dict["rotation"][frame],
+        data_dict["zoom"][frame],
+    )
 
     # print(frame_data)
     # with open('./json/frameCreationInfo/frameCreationInfo.json', "w") as outfile:
