@@ -101,7 +101,9 @@ Converts frames to a video.
 ```python
 python frametoVideo.py -n fiverr
 ```
+After completion you will find the video in video folder. 
 
-Contributing
+
+### Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
